@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmlExportViewModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ElectionName>Special Election</ElectionName>
+  <ElectionDate>2018-12-04T00:00:00</ElectionDate>
+  <ContestList>
+    <ContestDataExportViewModel>
+      <ContestName>REGISTERED VOTERS - TOTAL</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Party>CITYWIDE</Party>
+          <Votes>63817</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>BALLOTS CAST - TOTAL</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Party>CITYWIDE</Party>
+          <Votes>5403</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>WARD FOUR MEMBER OF THE STATE BOARD OF EDUCATION</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Rhonda Henderson</Candidate>
+          <Party>NON</Party>
+          <Votes>2035</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Ryan Tauriainen</Candidate>
+          <Party>NON</Party>
+          <Votes>303</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Elani Lawrence</Candidate>
+          <Party>NON</Party>
+          <Votes>583</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Frazier L. O'Leary, Jr.</Candidate>
+          <Party>NON</Party>
+          <Votes>2456</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>NON</Party>
+          <Votes>17</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Votes>2</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Votes>7</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+  </ContestList>
+</XmlExportViewModel>

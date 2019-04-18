@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+
+<?xml-stylesheet type='text/xsl' href='results1112.xsl'?>
+
+
+<DCBOEE>
+
+
+     <ELECTION ElectionDate="2013-05-10" ElectionName="D.C. Special Election 2013" ElectionID="11">
+
+
+          <CONTEST contest_id="103" CONTEST_NAME="AT - LARGE MEMBER OF THE COUNCIL DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="MATTHEW FRUMIN" VOTES="6307"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="PERRY REDD" VOTES="1090"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="ELISSA SILVERMAN" VOTES="15228"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="PATRICK MARA" VOTES="13698"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="ANITA BONDS" VOTES="18027"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="MICHAEL A. BROWN" VOTES="1100"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="PAUL ZUKERBERG" VOTES="1195"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN" VOTES="187"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES" VOTES="62"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES" VOTES="344"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="104" CONTEST_NAME="PROPOSED CHARTER AMENDMENT VIII DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="FOR Charter Amendment" VOTES="46788"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="AGAINST Charter Amendment" VOTES="7411"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES" VOTES="4"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES" VOTES="3035"/>
+
+
+          </CONTEST>
+
+
+     </ELECTION>
+
+
+</DCBOEE>

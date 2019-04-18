@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+
+<?xml-stylesheet type='text/xsl' href='results1112.xsl'?>
+
+
+<DCBOEE>
+
+
+     <ELECTION ElectionDate="2014-04-14" ElectionName="D.C. Special Election 2012" ElectionID="10">
+
+
+          <CONTEST contest_id="103" CONTEST_NAME="MEMBER OF THE COUNCIL WARD FIVE">
+
+
+               <CANDIDATE PARTY="NOP" CANDIDATE="John C. Cheeks" VOTES="57"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Rae Zapata" VOTES="199"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Ruth E. Marshall" VOTES="78"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Tim Day" VOTES="592"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Delano Hunter" VOTES="2190"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Drew E. Hubbard" VOTES="235"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Amanda Broadnax" VOTES="25"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Kenyan McDuffie" VOTES="4529"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Shelly Gardner" VOTES="273"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Kathy Henderson" VOTES="257"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Ron L. Magnus" VOTES="434"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Frank Wilds" VOTES="1493"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN" VOTES="31"/>
+
+
+          </CONTEST>
+
+
+     </ELECTION>
+
+
+</DCBOEE>

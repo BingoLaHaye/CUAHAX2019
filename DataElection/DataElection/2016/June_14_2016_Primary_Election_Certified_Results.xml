@@ -1,0 +1,571 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+
+<?xml-stylesheet type='text/xsl' href='results1112.xsl'?>
+
+
+<DCBOEE>
+
+
+     <ELECTION ElectionDate="2016-06-28" ElectionName="D.C. Primary Election 2016" ElectionID="17">
+
+
+          <CONTEST contest_id="301" CONTEST_NAME="DEMOCRATIC PRESIDENTIAL PREFERENCE">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="&quot;Rocky&quot; Roque De La Fuente            " VOTES="213"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Hillary Clinton                       " VOTES="76704"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Bernie Sanders                        " VOTES="20361"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN                              " VOTES="485"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="OVER VOTES                            " VOTES="24"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="UNDER VOTES                           " VOTES="611"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="302" CONTEST_NAME="DELEGATE TO THE U.S. HOUSE OF REPRESENTATIVES">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Eleanor Holmes Norton                 " VOTES="90801"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN                              " VOTES="2664"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="OVER VOTES                            " VOTES="13"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="UNDER VOTES                           " VOTES="4920"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="303" CONTEST_NAME="AT-LARGE MEMBER OF THE COUNCIL">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="David Garber                          " VOTES="14237"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Vincent Orange                        " VOTES="37009"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Robert White                          " VOTES="38805"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN                              " VOTES="787"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="OVER VOTES                            " VOTES="31"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="UNDER VOTES                           " VOTES="7419"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="304" CONTEST_NAME="MEMBER OF THE COUNCIL WARD TWO">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Jack Evans                            " VOTES="7626"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN                              " VOTES="370"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="UNDER VOTES                           " VOTES="1144"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="305" CONTEST_NAME="MEMBER OF THE COUNCIL WARD FOUR">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Ron Austin                            " VOTES="574"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Calvin H. Gurley                      " VOTES="509"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Brandon Todd                          " VOTES="8145"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Leon T. Andrews, Jr.                  " VOTES="6738"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN                              " VOTES="63"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="OVER VOTES                            " VOTES="7"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="UNDER VOTES                           " VOTES="474"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="306" CONTEST_NAME="MEMBER OF THE COUNCIL WARD SEVEN">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Yvette M. Alexander                   " VOTES="3482"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Grant Thompson                        " VOTES="345"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Delmar Chesley                        " VOTES="208"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Vincent C. Gray                       " VOTES="6333"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN                              " VOTES="60"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="OVER VOTES                            " VOTES="4"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="UNDER VOTES                           " VOTES="114"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="307" CONTEST_NAME="MEMBER OF THE COUNCIL WARD EIGHT">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Maurice T. Dickens                    " VOTES="70"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Trayon &quot;Ward Eight&quot; White             " VOTES="4272"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Aaron Holmes                          " VOTES="280"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Bonita Goode                          " VOTES="75"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="LaRuby May                            " VOTES="3584"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN                              " VOTES="30"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="OVER VOTES                            " VOTES="5"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="UNDER VOTES                           " VOTES="102"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="308" CONTEST_NAME="UNITED STATES REPRESENTATIVE">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Franklin Garcia                       " VOTES="75186"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN                              " VOTES="2800"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="OVER VOTES                            " VOTES="11"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="UNDER VOTES                           " VOTES="20291"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="309" CONTEST_NAME="DELEGATE TO THE U.S. HOUSE OF REPRESENTATIVES">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN                              " VOTES="564"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="1018"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="310" CONTEST_NAME="AT-LARGE MEMBER OF THE COUNCIL">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Carolina Celnik                       " VOTES="1270"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN                              " VOTES="146"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="155"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="311" CONTEST_NAME="MEMBER OF THE COUNCIL WARD TWO">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN                              " VOTES="65"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="181"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="312" CONTEST_NAME="MEMBER OF THE COUNCIL WARD FOUR">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN                              " VOTES="77"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="136"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="313" CONTEST_NAME="MEMBER OF THE COUNCIL WARD SEVEN">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN                              " VOTES="52"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="40"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="314" CONTEST_NAME="MEMBER OF THE COUNCIL WARD EIGHT">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN                              " VOTES="30"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="24"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="315" CONTEST_NAME="UNITED STATES REPRESENTATIVE">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN                              " VOTES="376"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="1196"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="316" CONTEST_NAME="NATIONAL COMMITTEEMAN">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Bob Kabel                             " VOTES="1292"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="280"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="317" CONTEST_NAME="NATIONAL COMMITTEEWOMAN">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Jill Homan                            " VOTES="1320"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="252"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="318" CONTEST_NAME="CHAIRPERSON OF THE DC REPUBLICAN COMMITTEE WARD ONE">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Michael McHugh                        " VOTES="106"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="18"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="319" CONTEST_NAME="CHAIRPERSON OF THE DC REPUBLICAN COMMITTEE WARD TWO">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Gary P. Kraiss, Jr.                   " VOTES="219"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="27"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="320" CONTEST_NAME="CHAIRPERSON OF THE DC REPUBLICAN COMMITTEE WARD THREE">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Robert Hyman                          " VOTES="327"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="43"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="321" CONTEST_NAME="CHAIRPERSON OF THE DC REPUBLICAN COMMITTEE WARD FIVE">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Joe Brookman                          " VOTES="99"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="21"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="322" CONTEST_NAME="CHAIRPERSON OF THE DC REPUBLICAN COMMITTEE WARD SIX">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Stephen Jackson                       " VOTES="318"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="35"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="323" CONTEST_NAME="CHAIRPERSON OF THE DC REPUBLICAN COMMITTEE WARD SEVEN">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Robert T. (Bob) Richards              " VOTES="78"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="14"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="324" CONTEST_NAME="CHAIRPERSON OF THE DC REPUBLICAN COMMITTEE WARD FOUR">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN                              " VOTES="54"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="159"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="325" CONTEST_NAME="CHAIRPERSON OF THE DC REPUBLICAN COMMITTEE WARD EIGHT">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN                              " VOTES="18"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="UNDER VOTES                           " VOTES="36"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="326" CONTEST_NAME="DELEGATE TO THE U.S. HOUSE OF REPRESENTATIVES">
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="Natale (Lino) Stracuzzi               " VOTES="326"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="WRITE-IN                              " VOTES="77"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="UNDER VOTES                           " VOTES="40"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="327" CONTEST_NAME="AT-LARGE MEMBER OF THE COUNCIL">
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="G. Lee Aikin                          " VOTES="280"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="WRITE-IN                              " VOTES="126"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="UNDER VOTES                           " VOTES="37"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="328" CONTEST_NAME="MEMBER OF THE COUNCIL WARD TWO">
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="UNDER VOTES                           " VOTES="17"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="329" CONTEST_NAME="MEMBER OF THE COUNCIL WARD FOUR">
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="WRITE-IN                              " VOTES="53"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="UNDER VOTES                           " VOTES="51"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="330" CONTEST_NAME="MEMBER OF THE COUNCIL WARD SEVEN">
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="WRITE-IN                              " VOTES="40"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="UNDER VOTES                           " VOTES="18"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="331" CONTEST_NAME="MEMBER OF THE COUNCIL WARD EIGHT">
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="WRITE-IN                              " VOTES="15"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="UNDER VOTES                           " VOTES="13"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="332" CONTEST_NAME="UNITED STATES REPRESENTATIVE">
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="WRITE-IN                              " VOTES="158"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="UNDER VOTES                           " VOTES="285"/>
+
+
+          </CONTEST>
+
+
+     </ELECTION>
+
+
+</DCBOEE>

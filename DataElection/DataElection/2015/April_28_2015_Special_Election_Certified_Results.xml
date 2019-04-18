@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+
+<?xml-stylesheet type='text/xsl' href='results1112.xsl'?>
+
+
+<DCBOEE>
+
+
+     <ELECTION ElectionDate="2015-05-14" ElectionName="D.C. Special Election 2015" ElectionID="15">
+
+
+          <CONTEST contest_id="103" CONTEST_NAME="MEMBER OF THE COUNCIL WARD FOUR">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Brandon Todd" VOTES="4584"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Ron Austin" VOTES="185"/>
+
+
+               <CANDIDATE PARTY="IND" CANDIDATE="Glova Scott" VOTES="53"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Acqunetta Anderson" VOTES="117"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Douglass Sloan" VOTES="55"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Pedro Rubio, Jr." VOTES="37"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Renee L. Bowser" VOTES="2311"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Leon T. Andrews, Jr." VOTES="1613"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Edwin W. Powell" VOTES="132"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Judi Jones" VOTES="119"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Bobvala Tengen" VOTES="91"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Dwayne M. Toliver" VOTES="1297"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Gwenellen Corley-Bowman" VOTES="73"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN" VOTES="38"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES" VOTES="17"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES" VOTES="33"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="104" CONTEST_NAME="MEMBER OF THE COUNCIL WARD EIGHT">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Greta Fuller" VOTES="100"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="LaRuby May" VOTES="1955"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Leonard Watson, Sr." VOTES="123"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Natalie Williams" VOTES="683"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Stuart Anderson" VOTES="10"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Sheila Bunn" VOTES="741"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="&quot;S.S.&quot; Sandra Seegars" VOTES="331"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Marion C. Barry" VOTES="554"/>
+
+
+               <CANDIDATE PARTY="IND" CANDIDATE="Keita Vanterpool" VOTES="46"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Eugene D. Kinlow" VOTES="693"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Jauhar Abraham" VOTES="17"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Anthony Muhammad" VOTES="123"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Trayon &quot;WardEight&quot; White" VOTES="1877"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN" VOTES="23"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES" VOTES="9"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES" VOTES="23"/>
+
+
+          </CONTEST>
+
+
+     </ELECTION>
+
+
+</DCBOEE>

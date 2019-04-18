@@ -1,0 +1,2266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmlExportViewModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ElectionName>Primary Election</ElectionName>
+  <ElectionDate>2018-06-19T00:00:00</ElectionDate>
+  <ContestList>
+    <ContestDataExportViewModel>
+      <ContestName>REGISTERED VOTERS - TOTAL</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Party>CITYWIDE</Party>
+          <Votes>479723</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Party>DEM</Party>
+          <Votes>364514</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Party>REP</Party>
+          <Votes>29504</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Party>STG</Party>
+          <Votes>3802</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Party>LIB</Party>
+          <Votes>1090</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Party>NPN</Party>
+          <Votes>80813</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>BALLOTS CAST - TOTAL</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Party>CITYWIDE</Party>
+          <Votes>89513</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Party>DEM</Party>
+          <Votes>81424</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Party>REP</Party>
+          <Votes>2630</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Party>STG</Party>
+          <Votes>518</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Party>LIB</Party>
+          <Votes>140</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Party>NPN</Party>
+          <Votes>4801</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>DELEGATE TO THE HOUSE OF REPRESENTATIVES FROM THE DISTRI</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Kim R. Ford</Candidate>
+          <Party>DEM</Party>
+          <Votes>18178</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Eleanor Holmes Norton</Candidate>
+          <Party>DEM</Party>
+          <Votes>60842</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>DEM</Party>
+          <Votes>515</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>22</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>1867</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MAYOR OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>James Butler</Candidate>
+          <Party>DEM</Party>
+          <Votes>7915</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Ernest E. Johnson</Candidate>
+          <Party>DEM</Party>
+          <Votes>4674</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Muriel Bowser</Candidate>
+          <Party>DEM</Party>
+          <Votes>61855</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>DEM</Party>
+          <Votes>2887</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>29</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>4045</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRMAN OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Ed Lazere</Candidate>
+          <Party>DEM</Party>
+          <Votes>28280</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Phil Mendelson</Candidate>
+          <Party>DEM</Party>
+          <Votes>48848</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>DEM</Party>
+          <Votes>384</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>24</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>3869</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>AT-LARGE MEMBER OF THE COUNCIL OF  THE DISTRICT OF COLUM</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Jeremiah Lowery</Candidate>
+          <Party>DEM</Party>
+          <Votes>17688</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Anita Bonds</Candidate>
+          <Party>DEM</Party>
+          <Votes>39351</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Marcus Goodwin</Candidate>
+          <Party>DEM</Party>
+          <Votes>17419</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>DEM</Party>
+          <Votes>552</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>50</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>6345</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Sheika Reid</Candidate>
+          <Party>DEM</Party>
+          <Votes>1533</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Brianne K Nadeau</Candidate>
+          <Party>DEM</Party>
+          <Votes>5537</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Lori Parker</Candidate>
+          <Party>DEM</Party>
+          <Votes>1485</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Kent Boese</Candidate>
+          <Party>DEM</Party>
+          <Votes>2876</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>DEM</Party>
+          <Votes>37</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>2</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>521</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Mary M. Cheh</Candidate>
+          <Party>DEM</Party>
+          <Votes>10011</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>DEM</Party>
+          <Votes>532</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>2</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>1126</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Kenyan McDuffie</Candidate>
+          <Party>DEM</Party>
+          <Votes>7737</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Bradley Thomas</Candidate>
+          <Party>DEM</Party>
+          <Votes>1373</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>LaMonica Jeffrey</Candidate>
+          <Party>DEM</Party>
+          <Votes>314</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Gayle Hall Carley</Candidate>
+          <Party>DEM</Party>
+          <Votes>1668</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Nestor Djonkam</Candidate>
+          <Party>DEM</Party>
+          <Votes>55</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>DEM</Party>
+          <Votes>63</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>7</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>368</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Lisa Hunter</Candidate>
+          <Party>DEM</Party>
+          <Votes>4569</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Charles Allen</Candidate>
+          <Party>DEM</Party>
+          <Votes>9802</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>DEM</Party>
+          <Votes>47</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>4</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>427</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>ATTORNEY GENERAL FOR THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Karl A. Racine</Candidate>
+          <Party>DEM</Party>
+          <Votes>71609</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>DEM</Party>
+          <Votes>1061</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>6</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>8729</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>UNITED STATES SENATOR</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Andria Thomas</Candidate>
+          <Party>DEM</Party>
+          <Votes>32500</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Michael D. Brown</Candidate>
+          <Party>DEM</Party>
+          <Votes>35254</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>DEM</Party>
+          <Votes>1151</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>22</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>12478</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>UNITED STATES REPRESENTATIVE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Franklin Garcia</Candidate>
+          <Party>DEM</Party>
+          <Votes>62424</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>DEM</Party>
+          <Votes>1637</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>5</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>17339</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>NATIONAL COMMITTEEWOMAN</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Silvia Martinez</Candidate>
+          <Party>DEM</Party>
+          <Votes>28098</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Nikki M. G. Lewis</Candidate>
+          <Party>DEM</Party>
+          <Votes>26625</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Marie C. Johns</Candidate>
+          <Party>DEM</Party>
+          <Votes>9946</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>57</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>16679</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>NATIONAL COMMITTEEMAN</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Jack Evans</Candidate>
+          <Party>DEM</Party>
+          <Votes>42873</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Markus Batchelor</Candidate>
+          <Party>DEM</Party>
+          <Votes>24364</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>25</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>14143</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>AT-LARGE COMMITTEEWOMAN</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>MaryEva Candon</Candidate>
+          <Party>DEM</Party>
+          <Votes>16347</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Gail Gottlieb</Candidate>
+          <Party>DEM</Party>
+          <Votes>15179</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Alexa Wertman Brown</Candidate>
+          <Party>DEM</Party>
+          <Votes>24501</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Patricia "Pat" Elwood</Candidate>
+          <Party>DEM</Party>
+          <Votes>27476</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Reta Jo Lewis</Candidate>
+          <Party>DEM</Party>
+          <Votes>23158</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Latifa Lyles</Candidate>
+          <Party>DEM</Party>
+          <Votes>23977</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Monica Roache</Candidate>
+          <Party>DEM</Party>
+          <Votes>21948</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Christine Warnke</Candidate>
+          <Party>DEM</Party>
+          <Votes>19165</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Karen Judith Pataky</Candidate>
+          <Party>DEM</Party>
+          <Votes>8178</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Sharece Crawford</Candidate>
+          <Party>DEM</Party>
+          <Votes>22612</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Sequnely Gray</Candidate>
+          <Party>DEM</Party>
+          <Votes>18059</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Chioma Iwuoha</Candidate>
+          <Party>DEM</Party>
+          <Votes>19711</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Tiye Kinlow</Candidate>
+          <Party>DEM</Party>
+          <Votes>17926</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Heidi Kotzian</Candidate>
+          <Party>DEM</Party>
+          <Votes>16389</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Janeese Lewis</Candidate>
+          <Party>DEM</Party>
+          <Votes>18520</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Molly Ruland</Candidate>
+          <Party>DEM</Party>
+          <Votes>17095</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>1064</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>258530</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>AT-LARGE COMMITTEEMAN</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Walter J. Springman Jr.</Candidate>
+          <Party>DEM</Party>
+          <Votes>19637</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>James S. Bubar</Candidate>
+          <Party>DEM</Party>
+          <Votes>21858</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Mario Cristaldo</Candidate>
+          <Party>DEM</Party>
+          <Votes>24802</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Dave Donaldson</Candidate>
+          <Party>DEM</Party>
+          <Votes>24269</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Charles Gaither</Candidate>
+          <Party>DEM</Party>
+          <Votes>24186</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>John Green</Candidate>
+          <Party>DEM</Party>
+          <Votes>25133</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>James J. Zogby</Candidate>
+          <Party>DEM</Party>
+          <Votes>20498</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Diallo K. Brooks</Candidate>
+          <Party>DEM</Party>
+          <Votes>21054</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>John Capozzi</Candidate>
+          <Party>DEM</Party>
+          <Votes>19753</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Philip Pannell</Candidate>
+          <Party>DEM</Party>
+          <Votes>21975</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Kishan Putta</Candidate>
+          <Party>DEM</Party>
+          <Votes>21626</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Earl Williams</Candidate>
+          <Party>DEM</Party>
+          <Votes>21563</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Charles E. Wilson</Candidate>
+          <Party>DEM</Party>
+          <Votes>23559</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>574</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>279348</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEWOMAN WARD ONE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Lynn C French</Candidate>
+          <Party>DEM</Party>
+          <Votes>3064</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Anita Bellamy Shelton</Candidate>
+          <Party>DEM</Party>
+          <Votes>3628</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Bonnie Cain</Candidate>
+          <Party>DEM</Party>
+          <Votes>3202</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Angelica Castanon</Candidate>
+          <Party>DEM</Party>
+          <Votes>3616</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>2</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>10470</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEWOMAN WARD TWO</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Merry Rutrick</Candidate>
+          <Party>DEM</Party>
+          <Votes>1966</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Marina Streznewski</Candidate>
+          <Party>DEM</Party>
+          <Votes>1805</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Susana Baranano</Candidate>
+          <Party>DEM</Party>
+          <Votes>2553</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Sherri Kimbel</Candidate>
+          <Party>DEM</Party>
+          <Votes>2300</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>12</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>5512</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEWOMAN WARD THREE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Elizabeth Mitchell</Candidate>
+          <Party>DEM</Party>
+          <Votes>5047</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Shelley Tomkin</Candidate>
+          <Party>DEM</Party>
+          <Votes>4569</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Audrey R. Alvarado</Candidate>
+          <Party>DEM</Party>
+          <Votes>2910</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Ann Loikow</Candidate>
+          <Party>DEM</Party>
+          <Votes>2206</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>40</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>8570</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEWOMAN WARD FOUR</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Renee L. Bowser</Candidate>
+          <Party>DEM</Party>
+          <Votes>5188</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Carla Ferris</Candidate>
+          <Party>DEM</Party>
+          <Votes>3229</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Linda L. Gray</Candidate>
+          <Party>DEM</Party>
+          <Votes>5299</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Renée J. Johnson</Candidate>
+          <Party>DEM</Party>
+          <Votes>3910</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>10</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>8354</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEWOMAN WARD FIVE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Romaine B Thomas</Candidate>
+          <Party>DEM</Party>
+          <Votes>5347</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Jay Mills</Candidate>
+          <Party>DEM</Party>
+          <Votes>2970</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Andra Wicks</Candidate>
+          <Party>DEM</Party>
+          <Votes>4475</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Demetris Cheatham</Candidate>
+          <Party>DEM</Party>
+          <Votes>1562</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>10</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>8806</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEWOMAN WARD SIX</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Wendy Cronin</Candidate>
+          <Party>DEM</Party>
+          <Votes>6851</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Andria Thomas</Candidate>
+          <Party>DEM</Party>
+          <Votes>8284</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>14563</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEWOMAN WARD SEVEN</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Dorothy Douglas</Candidate>
+          <Party>DEM</Party>
+          <Votes>4727</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Lauren Grimes</Candidate>
+          <Party>DEM</Party>
+          <Votes>3535</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>5346</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEWOMAN WARD EIGHT</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Regina Sharlita Pixley</Candidate>
+          <Party>DEM</Party>
+          <Votes>1750</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Mary J. Cuthbert</Candidate>
+          <Party>DEM</Party>
+          <Votes>1452</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Wanda D. Lockridge</Candidate>
+          <Party>DEM</Party>
+          <Votes>2656</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>2</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>3012</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEMAN WARD ONE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Stanley J. Mayes</Candidate>
+          <Party>DEM</Party>
+          <Votes>4191</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Tony Donaldson, Jr.</Candidate>
+          <Party>DEM</Party>
+          <Votes>4438</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Steve Lanning</Candidate>
+          <Party>DEM</Party>
+          <Votes>3600</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>11753</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEMAN WARD TWO</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>John Fanning</Candidate>
+          <Party>DEM</Party>
+          <Votes>2459</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Delvone Michael</Candidate>
+          <Party>DEM</Party>
+          <Votes>2023</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>John E. Lazar</Candidate>
+          <Party>DEM</Party>
+          <Votes>3106</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>2</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>6558</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEMAN WARD THREE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Hugh Allen</Candidate>
+          <Party>DEM</Party>
+          <Votes>4755</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Beau Finley</Candidate>
+          <Party>DEM</Party>
+          <Votes>4533</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Zachary B. Israel</Candidate>
+          <Party>DEM</Party>
+          <Votes>2897</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Jesse Lovell</Candidate>
+          <Party>DEM</Party>
+          <Votes>2473</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>38</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>8646</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEMAN WARD FOUR</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Eric Atilano</Candidate>
+          <Party>DEM</Party>
+          <Votes>4513</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Todd Brogan</Candidate>
+          <Party>DEM</Party>
+          <Votes>5825</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>James J Sydnor</Candidate>
+          <Party>DEM</Party>
+          <Votes>5374</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>6</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>10272</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEMAN WARD FIVE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Ronnie Edwards</Candidate>
+          <Party>DEM</Party>
+          <Votes>2537</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Timothy Thomas</Candidate>
+          <Party>DEM</Party>
+          <Votes>4921</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Walter Deleon</Candidate>
+          <Party>DEM</Party>
+          <Votes>3446</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Gordon-Andrew Fletcher</Candidate>
+          <Party>DEM</Party>
+          <Votes>3579</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>8687</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEMAN WARD SIX</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Don Dinan</Candidate>
+          <Party>DEM</Party>
+          <Votes>3909</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>David Meadows</Candidate>
+          <Party>DEM</Party>
+          <Votes>5411</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Franco Ciammachilli</Candidate>
+          <Party>DEM</Party>
+          <Votes>3528</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Zach Weinstein</Candidate>
+          <Party>DEM</Party>
+          <Votes>3861</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>4</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>12985</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEMAN WARD SEVEN</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Dexter Williams</Candidate>
+          <Party>DEM</Party>
+          <Votes>4246</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Phillip Hammond</Candidate>
+          <Party>DEM</Party>
+          <Votes>3994</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>5368</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>COMMITTEEMAN WARD EIGHT</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Stuart Anderson</Candidate>
+          <Party>DEM</Party>
+          <Votes>1612</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Troy Donte Prestwood</Candidate>
+          <Party>DEM</Party>
+          <Votes>1347</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Anthony Muhammad</Candidate>
+          <Party>DEM</Party>
+          <Votes>1938</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>Stephen A. Slaughter</Candidate>
+          <Party>DEM</Party>
+          <Votes>1306</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>DEM</Party>
+          <Votes>2669</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>DELEGATE TO THE HOUSE OF REPRESENTATIVES FROM THE DISTRI</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>750</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>1880</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MAYOR OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>844</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>1786</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRMAN OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>570</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>2060</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>AT-LARGE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMB</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>536</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>2094</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>49</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>197</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>117</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>425</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>65</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>152</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Michael Bekesha</Candidate>
+          <Party>REP</Party>
+          <Votes>661</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>59</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>1</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>141</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>ATTORNEY GENERAL FOR THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>464</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>2166</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>UNITED STATES SENATOR</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>454</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>2176</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>UNITED STATES REPRESENTATIVE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>441</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>2189</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRPERSON WARD ONE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>36</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>210</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRPERSON WARD TWO</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>66</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>341</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRPERSON WARD THREE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>80</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>462</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRPERSON WARD FOUR</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>41</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>183</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRPERSON WARD FIVE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>43</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>174</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRPERSON WARD SIX</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Stephen Jackson</Candidate>
+          <Party>REP</Party>
+          <Votes>678</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>21</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>163</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRPERSON WARD SEVEN</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>27</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>57</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRPERSON WARD EIGHT</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>REP</Party>
+          <Votes>19</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>REP</Party>
+          <Votes>29</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>DELEGATE TO THE HOUSE OF REPRESENTATIVES FROM THE DISTRI</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Natale "Lino" Stracuzzi</Candidate>
+          <Party>STG</Party>
+          <Votes>368</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>STG</Party>
+          <Votes>81</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>69</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MAYOR OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Ann C. Wilcox</Candidate>
+          <Party>STG</Party>
+          <Votes>379</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>STG</Party>
+          <Votes>82</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>1</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>56</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRMAN OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>STG</Party>
+          <Votes>161</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>357</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>AT-LARGE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMB</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>David Schwartzman</Candidate>
+          <Party>STG</Party>
+          <Votes>382</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>STG</Party>
+          <Votes>71</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>65</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>STG</Party>
+          <Votes>35</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>80</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>STG</Party>
+          <Votes>18</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>48</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Joyce (Chestnut) Robinson-Paul</Candidate>
+          <Party>STG</Party>
+          <Votes>36</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>STG</Party>
+          <Votes>11</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>10</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>STG</Party>
+          <Votes>31</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>54</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>ATTORNEY GENERAL FOR THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>STG</Party>
+          <Votes>91</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>427</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>UNITED STATES SENATOR</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>STG</Party>
+          <Votes>95</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>423</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>UNITED STATES REPRESENTATIVE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>STG</Party>
+          <Votes>85</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>STG</Party>
+          <Votes>433</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>DELEGATE TO THE HOUSE OF REPRESENTATIVES FROM THE DISTRI</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Bruce Majors</Candidate>
+          <Party>LIB</Party>
+          <Votes>111</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>12</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>17</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MAYOR OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Martin Moulton</Candidate>
+          <Party>LIB</Party>
+          <Votes>98</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>23</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>19</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIRMAN OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>39</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>101</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>AT-LARGE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMB</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Denise Hicks</Candidate>
+          <Party>LIB</Party>
+          <Votes>110</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>8</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>22</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>6</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>13</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>11</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>13</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>5</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>14</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>8</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>20</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>ATTORNEY GENERAL FOR THE DISTRICT OF COLUMBIA</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>35</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>105</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>UNITED STATES SENATOR</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>26</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>114</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>UNITED STATES REPRESENTATIVE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>30</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>110</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>CHAIR</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>Joe Henchman</Candidate>
+          <Party>LIB</Party>
+          <Votes>115</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>1</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>24</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>AT-LARGE MEMBER</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>33</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>527</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER WARD ONE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>3</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>16</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER WARD TWO</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>2</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>23</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER WARD THREE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>4</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>20</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER WARD FOUR</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>3</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>13</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER WARD FIVE</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>2</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>17</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER WARD SIX</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>4</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>24</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER WARD SEVEN</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>2</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>4</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>MEMBER WARD EIGHT</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>3</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>DELEGATE TO 2018 LIBERTARIAN PARTY NATIONAL CONVENTION</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>WRITE-IN</Candidate>
+          <Party>LIB</Party>
+          <Votes>38</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>0</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Party>LIB</Party>
+          <Votes>382</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+    <ContestDataExportViewModel>
+      <ContestName>INITIATIVE MEASURE NO. 77</ContestName>
+      <ElectionData>
+        <ElectionDataExportViewModel>
+          <Candidate>YES, to approve</Candidate>
+          <Votes>47230</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>NO, to reject</Candidate>
+          <Votes>37504</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>OVER VOTES</Candidate>
+          <Votes>15</Votes>
+        </ElectionDataExportViewModel>
+        <ElectionDataExportViewModel>
+          <Candidate>UNDER VOTES</Candidate>
+          <Votes>4745</Votes>
+        </ElectionDataExportViewModel>
+      </ElectionData>
+    </ContestDataExportViewModel>
+  </ContestList>
+</XmlExportViewModel>

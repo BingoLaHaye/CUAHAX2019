@@ -1,0 +1,6013 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+
+<?xml-stylesheet type='text/xsl' href='results1112.xsl'?>
+
+
+<DCBOEE>
+
+
+     <ELECTION ElectionDate="2016-11-18" ElectionName="D.C. General Election 2016" ElectionID="19">
+
+
+          <CONTEST contest_id="301" CONTEST_NAME="ELECTORS OF PRESIDENT AND VICE PRESIDENT">
+
+
+               <CANDIDATE PARTY="LIB" CANDIDATE="Gary Johnson - Bill Weld              " VOTES="4906"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="Jill Stein - Ajamu Baraka             " VOTES="4258"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Donald J. Trump - Michael R. Pence    " VOTES="12723"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Hillary Clinton - Tim Kaine           " VOTES="282830"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="6551"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="243"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="1064"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="302" CONTEST_NAME="DELEGATE TO THE U.S. HOUSE OF REPRESENTATIVES">
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="Natale (Lino) Stracuzzi               " VOTES="14336"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Eleanor Holmes Norton                 " VOTES="265178"/>
+
+
+               <CANDIDATE PARTY="LIB" CANDIDATE="Martin Moulton                        " VOTES="18713"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="2679"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="171"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="11498"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="303" CONTEST_NAME="AT - LARGE MEMBER OF THE COUNCIL DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="LIB" CANDIDATE="Matthew Klokel                        " VOTES="14178"/>
+
+
+               <CANDIDATE PARTY="IND" CANDIDATE="John C. Cheeks                        " VOTES="24714"/>
+
+
+               <CANDIDATE PARTY="STG" CANDIDATE="G. Lee Aikin                          " VOTES="29165"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Carolina Celnik                       " VOTES="28823"/>
+
+
+               <CANDIDATE PARTY="IND" CANDIDATE="David Grosso                          " VOTES="108745"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Robert White                          " VOTES="233983"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="3536"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="162"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="178827"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="304" CONTEST_NAME="WARD TWO MEMBER OF THE COUNCIL">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Jack Evans                            " VOTES="27534"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="975"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="4391"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="305" CONTEST_NAME="WARD FOUR MEMBER OF THE COUNCIL">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Brandon Todd                          " VOTES="35100"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="1813"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="13"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="4129"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="306" CONTEST_NAME="WARD SEVEN MEMBER OF THE COUNCIL">
+
+
+               <CANDIDATE PARTY="IND" CANDIDATE="Gary Butler                           " VOTES="2367"/>
+
+
+               <CANDIDATE PARTY="IND" CANDIDATE="Christian Carter                      " VOTES="1837"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Vincent C. Gray                       " VOTES="27956"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="237"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="27"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="1006"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="307" CONTEST_NAME="WARD EIGHT MEMBER OF THE COUNCIL">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Trayon &quot;Ward Eight&quot; White             " VOTES="27174"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="497"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="18"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="1525"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="308" CONTEST_NAME="UNITED STATES REPRESENTATIVE DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Franklin Garcia                       " VOTES="252992"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="6936"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="73"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="51066"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="309" CONTEST_NAME="AT - LARGE MEMBER STATE BOARD OF EDUCATION">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mary Lord                             " VOTES="90162"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Tony Donaldson, Jr.                   " VOTES="49896"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ashley Carter                         " VOTES="98164"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="5105"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="248"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="67492"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="310" CONTEST_NAME="WARD TWO MEMBER STATE BOARD OF EDUCATION">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jack Jacobson                         " VOTES="23176"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="494"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="3"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="9235"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="311" CONTEST_NAME="WARD FOUR MEMBER STATE BOARD OF EDUCATION">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Lannette Woodruff                     " VOTES="31562"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="688"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="7"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="8798"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="312" CONTEST_NAME="WARD SEVEN MEMBER STATE BOARD OF EDUCATION">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Dorothy Douglas                       " VOTES="10804"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Marla M. Dean                         " VOTES="3819"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Karen Williams                        " VOTES="14057"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="323"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="22"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="4405"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="313" CONTEST_NAME="WARD EIGHT MEMBER STATE BOARD OF EDUCATION">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Tierra Jolly                          " VOTES="8530"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Markus Batchelor                      " VOTES="9064"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Shakira T. Hemphill                   " VOTES="8230"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="193"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="23"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="3174"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="314" CONTEST_NAME="ANC - 1A01 SINGLE MEMBER DISTRICT  01-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Valerie Baron                         " VOTES="400"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ernest E. Johnson                     " VOTES="246"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="5"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="71"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="315" CONTEST_NAME="ANC - 1A02 SINGLE MEMBER DISTRICT  02-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Vickey A. Wright-Smith                " VOTES="823"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="49"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="216"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="316" CONTEST_NAME="ANC - 1A03 SINGLE MEMBER DISTRICT  03-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Zach Rybarczyk                        " VOTES="616"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="25"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="207"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="317" CONTEST_NAME="ANC - 1A04 SINGLE MEMBER DISTRICT  04-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sadaf Megan Mortezavi                 " VOTES="690"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="24"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="215"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="318" CONTEST_NAME="ANC - 1A05 SINGLE MEMBER DISTRICT  05-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Christine Miller                      " VOTES="577"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="21"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="148"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="319" CONTEST_NAME="ANC - 1A06 SINGLE MEMBER DISTRICT  06-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Richard DuBeshter                     " VOTES="866"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="44"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="238"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="320" CONTEST_NAME="ANC - 1A07 SINGLE MEMBER DISTRICT  07-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Darwain Frost                         " VOTES="371"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sharon Farmer                         " VOTES="526"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="17"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="180"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="321" CONTEST_NAME="ANC - 1A08 SINGLE MEMBER DISTRICT  08-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kent Boese                            " VOTES="1078"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="29"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="208"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="322" CONTEST_NAME="ANC - 1A09 SINGLE MEMBER DISTRICT  09-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Bobby Holmes                          " VOTES="676"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="41"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="167"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="323" CONTEST_NAME="ANC - 1A10 SINGLE MEMBER DISTRICT  10-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Amanda Frost                          " VOTES="360"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Rashida E. Brown                      " VOTES="613"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="101"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="324" CONTEST_NAME="ANC - 1A11 SINGLE MEMBER DISTRICT  11-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="211"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="706"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="325" CONTEST_NAME="ANC - 1A12 SINGLE MEMBER DISTRICT  12-ANC 1A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Margaret Hundley                      " VOTES="627"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="24"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="194"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="326" CONTEST_NAME="ANC - 1B01 SINGLE MEMBER DISTRICT  01-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jonathan Goldman                      " VOTES="292"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Anita Norman                          " VOTES="853"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="14"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="186"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="327" CONTEST_NAME="ANC - 1B02 SINGLE MEMBER DISTRICT  02-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Brad Gudzinas                         " VOTES="1152"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="47"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="359"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="328" CONTEST_NAME="ANC - 1B03 SINGLE MEMBER DISTRICT  03-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sedrick Muhammad                      " VOTES="647"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="47"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="243"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="329" CONTEST_NAME="ANC - 1B04 SINGLE MEMBER DISTRICT  04-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jon Squicciarini                      " VOTES="1029"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="44"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="349"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="330" CONTEST_NAME="ANC - 1B05 SINGLE MEMBER DISTRICT  05-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Nathan Ackerman                       " VOTES="839"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="44"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="274"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="331" CONTEST_NAME="ANC - 1B06 SINGLE MEMBER DISTRICT  06-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="251"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="831"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="332" CONTEST_NAME="ANC - 1B07 SINGLE MEMBER DISTRICT  07-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jessica L. Smith                      " VOTES="434"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="23"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="122"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="333" CONTEST_NAME="ANC - 1B08 SINGLE MEMBER DISTRICT  08-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Joshua R. Mater                       " VOTES="785"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="30"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="241"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="334" CONTEST_NAME="ANC - 1B09 SINGLE MEMBER DISTRICT  09-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="James A. Turner                       " VOTES="861"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="45"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="207"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="335" CONTEST_NAME="ANC - 1B10 SINGLE MEMBER DISTRICT  10-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="106"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="490"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="336" CONTEST_NAME="ANC - 1B11 SINGLE MEMBER DISTRICT  11-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Robb Hudson                           " VOTES="722"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="33"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="162"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="337" CONTEST_NAME="ANC - 1B12 SINGLE MEMBER DISTRICT  12-ANC 1B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="John Carlos Green                     " VOTES="991"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="26"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="277"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="338" CONTEST_NAME="ANC - 1C01 SINGLE MEMBER DISTRICT  01-ANC 1C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="331"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="1008"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="339" CONTEST_NAME="ANC - 1C02 SINGLE MEMBER DISTRICT  02-ANC 1C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Hector Huezo                          " VOTES="1019"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="47"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="315"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="340" CONTEST_NAME="ANC - 1C03 SINGLE MEMBER DISTRICT  03-ANC 1C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ted Guthrie                           " VOTES="903"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="62"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="272"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="341" CONTEST_NAME="ANC - 1C04 SINGLE MEMBER DISTRICT  04-ANC 1C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="A. Tianna Scozzaro                    " VOTES="952"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="41"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="290"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="342" CONTEST_NAME="ANC - 1C05 SINGLE MEMBER DISTRICT  05-ANC 1C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="249"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="1001"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="343" CONTEST_NAME="ANC - 1C06 SINGLE MEMBER DISTRICT  06-ANC 1C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Brendan Reardon                       " VOTES="930"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="35"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="294"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="344" CONTEST_NAME="ANC - 1C07 SINGLE MEMBER DISTRICT  07-ANC 1C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Wilson Reynolds                       " VOTES="603"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Chris &quot;Ward One&quot; Otten                " VOTES="334"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="30"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="218"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="345" CONTEST_NAME="ANC - 1C08 SINGLE MEMBER DISTRICT  08-ANC 1C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Amanda Fox Perry                      " VOTES="501"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="JonMarc P. Buffa                      " VOTES="492"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="27"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="232"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="346" CONTEST_NAME="ANC - 1D01 SINGLE MEMBER DISTRICT  01-ANC 1D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="'Franko' Frank O. Agbro               " VOTES="407"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jon Stewart                           " VOTES="597"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="240"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="347" CONTEST_NAME="ANC - 1D02 SINGLE MEMBER DISTRICT  02-ANC 1D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Paul Karrer                           " VOTES="279"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Alex Hastie                           " VOTES="115"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Capree Bell                           " VOTES="134"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="10"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="3"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="178"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="348" CONTEST_NAME="ANC - 1D03 SINGLE MEMBER DISTRICT  03-ANC 1D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jack McKay                            " VOTES="651"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Benjamin Mann                         " VOTES="493"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="12"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="122"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="349" CONTEST_NAME="ANC - 1D04 SINGLE MEMBER DISTRICT  04-ANC 1D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Yasmin Romero-Latin                   " VOTES="715"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="39"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="215"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="350" CONTEST_NAME="ANC - 1D05 SINGLE MEMBER DISTRICT  05-ANC 1D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Stuart Karaffa                        " VOTES="912"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="40"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="300"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="351" CONTEST_NAME="ANC - 2A01 SINGLE MEMBER DISTRICT  01-ANC 2A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Patrick Kennedy                       " VOTES="201"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="54"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="352" CONTEST_NAME="ANC - 2A02 SINGLE MEMBER DISTRICT  02-ANC 2A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Rebecca Coder                         " VOTES="624"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="18"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="235"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="353" CONTEST_NAME="ANC - 2A03 SINGLE MEMBER DISTRICT  03-ANC 2A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Matthew Chwastek                      " VOTES="181"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Marco Guzman                          " VOTES="282"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="231"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="354" CONTEST_NAME="ANC - 2A04 SINGLE MEMBER DISTRICT  04-ANC 2A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="William K. Smith                      " VOTES="603"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="34"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="166"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="355" CONTEST_NAME="ANC - 2A05 SINGLE MEMBER DISTRICT  05-ANC 2A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Philip J. Schrefer                    " VOTES="338"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="5"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="115"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="356" CONTEST_NAME="ANC - 2A06 SINGLE MEMBER DISTRICT  06-ANC 2A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Florence E. Harmon                    " VOTES="530"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="9"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="186"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="357" CONTEST_NAME="ANC - 2A07 SINGLE MEMBER DISTRICT  07-ANC 2A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Detrick Campbell                      " VOTES="235"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="72"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="358" CONTEST_NAME="ANC - 2A08 SINGLE MEMBER DISTRICT  08-ANC 2A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="81"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="207"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="359" CONTEST_NAME="ANC - 2B01 SINGLE MEMBER DISTRICT  01-ANC 2B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Amy Johnson                           " VOTES="862"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="26"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="245"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="360" CONTEST_NAME="ANC - 2B02 SINGLE MEMBER DISTRICT  02-ANC 2B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Daniel Warwick                        " VOTES="661"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="24"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="202"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="361" CONTEST_NAME="ANC - 2B03 SINGLE MEMBER DISTRICT  03-ANC 2B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Stephanie Maltz                       " VOTES="733"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="32"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="269"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="362" CONTEST_NAME="ANC - 2B04 SINGLE MEMBER DISTRICT  04-ANC 2B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Michael Upright                       " VOTES="922"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="50"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="335"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="363" CONTEST_NAME="ANC - 2B05 SINGLE MEMBER DISTRICT  05-ANC 2B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Teal Baker                            " VOTES="402"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Randy D. Downs                        " VOTES="531"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="17"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="224"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="364" CONTEST_NAME="ANC - 2B06 SINGLE MEMBER DISTRICT  06-ANC 2B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mike Silverstein                      " VOTES="753"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="20"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="245"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="365" CONTEST_NAME="ANC - 2B07 SINGLE MEMBER DISTRICT  07-ANC 2B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="John Kupcinski                        " VOTES="795"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="33"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="311"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="366" CONTEST_NAME="ANC - 2B08 SINGLE MEMBER DISTRICT  08-ANC 2B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Nicole Mann                           " VOTES="967"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="40"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="272"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="367" CONTEST_NAME="ANC - 2B09 SINGLE MEMBER DISTRICT  09-ANC 2B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Scott Davies                          " VOTES="815"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ed Hanlon                             " VOTES="363"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="14"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="199"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="368" CONTEST_NAME="ANC - 2C01 SINGLE MEMBER DISTRICT  01-ANC 2C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="John Tinpe                            " VOTES="707"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="238"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="369" CONTEST_NAME="ANC - 2C02 SINGLE MEMBER DISTRICT  02-ANC 2C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Theresa Harrison                      " VOTES="652"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="18"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="168"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="370" CONTEST_NAME="ANC - 2C03 SINGLE MEMBER DISTRICT  03-ANC 2C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kevin Wilsey                          " VOTES="617"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="12"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="186"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="371" CONTEST_NAME="ANC - 2D01 SINGLE MEMBER DISTRICT  01-ANC 2D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="David R. Bender                       " VOTES="589"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="201"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="372" CONTEST_NAME="ANC - 2D02 SINGLE MEMBER DISTRICT  02-ANC 2D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ellen Goldstein                       " VOTES="503"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="21"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="167"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="373" CONTEST_NAME="ANC - 2E01 SINGLE MEMBER DISTRICT  01-ANC 2E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ed Solomon                            " VOTES="622"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="202"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="374" CONTEST_NAME="ANC - 2E02 SINGLE MEMBER DISTRICT  02-ANC 2E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Joe Gibbons                           " VOTES="544"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="11"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="191"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="375" CONTEST_NAME="ANC - 2E03 SINGLE MEMBER DISTRICT  03-ANC 2E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Rick Murphy                           " VOTES="409"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Greg Miller                           " VOTES="173"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="7"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="176"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="376" CONTEST_NAME="ANC - 2E04 SINGLE MEMBER DISTRICT  04-ANC 2E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="5"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="18"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="377" CONTEST_NAME="ANC - 2E05 SINGLE MEMBER DISTRICT  05-ANC 2E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Bill Starrels                         " VOTES="191"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Lisa Palmer                           " VOTES="298"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="81"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="378" CONTEST_NAME="ANC - 2E06 SINGLE MEMBER DISTRICT  06-ANC 2E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jim Wilcox                            " VOTES="722"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="20"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="245"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="379" CONTEST_NAME="ANC - 2E07 SINGLE MEMBER DISTRICT  07-ANC 2E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Monica L. Roaché                     " VOTES="803"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="20"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="254"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="380" CONTEST_NAME="ANC - 2E08 SINGLE MEMBER DISTRICT  08-ANC 2E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Zachary Schroepfer                    " VOTES="271"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="7"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="59"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="381" CONTEST_NAME="ANC - 2F01 SINGLE MEMBER DISTRICT  01-ANC 2F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Casey Root                            " VOTES="339"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jason Forman                          " VOTES="489"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="25"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="359"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="382" CONTEST_NAME="ANC - 2F02 SINGLE MEMBER DISTRICT  02-ANC 2F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="John Guggenmos                        " VOTES="918"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="30"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="296"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="383" CONTEST_NAME="ANC - 2F03 SINGLE MEMBER DISTRICT  03-ANC 2F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Pepin Andrew Tuma                     " VOTES="471"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Alex J. Graham                        " VOTES="514"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="12"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="298"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="384" CONTEST_NAME="ANC - 2F04 SINGLE MEMBER DISTRICT  04-ANC 2F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="John Fanning                          " VOTES="868"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="14"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="257"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="385" CONTEST_NAME="ANC - 2F05 SINGLE MEMBER DISTRICT  05-ANC 2F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ron Rubin                             " VOTES="370"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Omeed Alerasool                       " VOTES="213"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="16"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="345"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="386" CONTEST_NAME="ANC - 2F06 SINGLE MEMBER DISTRICT  06-ANC 2F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Charlie Bengel                        " VOTES="910"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="23"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="199"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="387" CONTEST_NAME="ANC - 2F07 SINGLE MEMBER DISTRICT  07-ANC 2F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kevin J Sylvester                     " VOTES="588"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="17"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="233"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="388" CONTEST_NAME="ANC - 2F08 SINGLE MEMBER DISTRICT  08-ANC 2F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="119"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="699"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="389" CONTEST_NAME="ANC - 3B01 SINGLE MEMBER DISTRICT  01-ANC 3B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ann Lane Mladinov                     " VOTES="784"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="26"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="268"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="390" CONTEST_NAME="ANC - 3B02 SINGLE MEMBER DISTRICT  02-ANC 3B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jackie Blumenthal                     " VOTES="705"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="195"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="391" CONTEST_NAME="ANC - 3B03 SINGLE MEMBER DISTRICT  03-ANC 3B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Melissa Lane                          " VOTES="935"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="26"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="244"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="392" CONTEST_NAME="ANC - 3B04 SINGLE MEMBER DISTRICT  04-ANC 3B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mary C. Young                         " VOTES="985"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="27"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="398"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="393" CONTEST_NAME="ANC - 3B05 SINGLE MEMBER DISTRICT  05-ANC 3B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Brian G. Turmail                      " VOTES="852"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="28"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="212"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="394" CONTEST_NAME="ANC - 3C01 SINGLE MEMBER DISTRICT  01-ANC 3C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Lee Brian Reba                        " VOTES="901"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="41"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="299"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="395" CONTEST_NAME="ANC - 3C02 SINGLE MEMBER DISTRICT  02-ANC 3C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Gwendolyn Bole                        " VOTES="1051"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="32"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="310"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="396" CONTEST_NAME="ANC - 3C03 SINGLE MEMBER DISTRICT  03-ANC 3C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jessica Wasserman                     " VOTES="1023"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="25"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="260"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="397" CONTEST_NAME="ANC - 3C04 SINGLE MEMBER DISTRICT  04-ANC 3C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="266"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="877"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="398" CONTEST_NAME="ANC - 3C05 SINGLE MEMBER DISTRICT  05-ANC 3C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Emma Hersh                            " VOTES="666"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Margaret A. Siegel                    " VOTES="461"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="257"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="399" CONTEST_NAME="ANC - 3C06 SINGLE MEMBER DISTRICT  06-ANC 3C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Angela Bradbery                       " VOTES="948"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="229"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="400" CONTEST_NAME="ANC - 3C07 SINGLE MEMBER DISTRICT  07-ANC 3C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Maureen Kinlan Boucher                " VOTES="734"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="25"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="280"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="401" CONTEST_NAME="ANC - 3C08 SINGLE MEMBER DISTRICT  08-ANC 3C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Chaz Rotenberg                        " VOTES="253"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Malia N. Brink                        " VOTES="612"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="5"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="167"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="402" CONTEST_NAME="ANC - 3C09 SINGLE MEMBER DISTRICT  09-ANC 3C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Bob Ward                              " VOTES="350"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Nancy J. MacWood                      " VOTES="644"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="13"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="165"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="403" CONTEST_NAME="ANC - 3D01 SINGLE MEMBER DISTRICT  01-ANC 3D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Chuck Elkins                          " VOTES="815"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="30"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="272"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="404" CONTEST_NAME="ANC - 3D02 SINGLE MEMBER DISTRICT  02-ANC 3D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Troy Kravitz                          " VOTES="302"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Tom Smith                             " VOTES="266"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="5"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="41"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="405" CONTEST_NAME="ANC - 3D03 SINGLE MEMBER DISTRICT  03-ANC 3D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Gretchen M. Randolph                  " VOTES="296"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Joe Green                             " VOTES="214"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Holmes Whalen                         " VOTES="393"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="14"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="93"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="406" CONTEST_NAME="ANC - 3D04 SINGLE MEMBER DISTRICT  04-ANC 3D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="482"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="609"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="407" CONTEST_NAME="ANC - 3D05 SINGLE MEMBER DISTRICT  05-ANC 3D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Alma H. Gates                         " VOTES="734"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="114"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="222"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="408" CONTEST_NAME="ANC - 3D06 SINGLE MEMBER DISTRICT  06-ANC 3D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Stephen Gardner                       " VOTES="611"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="33"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="188"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="409" CONTEST_NAME="ANC - 3D07 SINGLE MEMBER DISTRICT  07-ANC 3D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="39"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="233"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="410" CONTEST_NAME="ANC - 3D08 SINGLE MEMBER DISTRICT  08-ANC 3D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Michael Gold                          " VOTES="650"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="16"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="248"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="411" CONTEST_NAME="ANC - 3D09 SINGLE MEMBER DISTRICT  09-ANC 3D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Conrad J. DeWitte, Jr.                " VOTES="757"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="35"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="280"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="412" CONTEST_NAME="ANC - 3D10 SINGLE MEMBER DISTRICT  10-ANC 3D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Silvia Lucero                         " VOTES="270"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="14"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="68"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="413" CONTEST_NAME="ANC - 3E01 SINGLE MEMBER DISTRICT  01-ANC 3E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Anne Wallace                          " VOTES="900"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="41"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="288"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="414" CONTEST_NAME="ANC - 3E02 SINGLE MEMBER DISTRICT  02-ANC 3E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Amy B. Hall                           " VOTES="892"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="32"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="286"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="415" CONTEST_NAME="ANC - 3E03 SINGLE MEMBER DISTRICT  03-ANC 3E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jonathan Bender                       " VOTES="915"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="54"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="234"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="416" CONTEST_NAME="ANC - 3E04 SINGLE MEMBER DISTRICT  04-ANC 3E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Tom Quinn                             " VOTES="891"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="44"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="263"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="417" CONTEST_NAME="ANC - 3E05 SINGLE MEMBER DISTRICT  05-ANC 3E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jonathan McHugh                       " VOTES="645"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="32"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="223"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="418" CONTEST_NAME="ANC - 3F01 SINGLE MEMBER DISTRICT  01-ANC 3F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="David Dickinson                       " VOTES="785"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="24"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="253"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="419" CONTEST_NAME="ANC - 3F02 SINGLE MEMBER DISTRICT  02-ANC 3F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Shirley Adelstein                     " VOTES="918"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="16"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="240"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="420" CONTEST_NAME="ANC - 3F03 SINGLE MEMBER DISTRICT  03-ANC 3F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Naomi Rutenberg                       " VOTES="917"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="37"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="286"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="421" CONTEST_NAME="ANC - 3F04 SINGLE MEMBER DISTRICT  04-ANC 3F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="145"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="796"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="422" CONTEST_NAME="ANC - 3F05 SINGLE MEMBER DISTRICT  05-ANC 3F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Andrea Molod                          " VOTES="791"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="308"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="423" CONTEST_NAME="ANC - 3F06 SINGLE MEMBER DISTRICT  06-ANC 3F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Malachy Nugent                        " VOTES="867"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="24"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="267"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="424" CONTEST_NAME="ANC - 3F07 SINGLE MEMBER DISTRICT  07-ANC 3F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Patrick Jakopchek                     " VOTES="903"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="29"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="314"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="425" CONTEST_NAME="ANC - 3G01 SINGLE MEMBER DISTRICT  01-ANC 3G">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Abraham Clayman                       " VOTES="515"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Carolyn &quot;Callie&quot; Cook                 " VOTES="562"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="24"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="195"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="426" CONTEST_NAME="ANC - 3G02 SINGLE MEMBER DISTRICT  02-ANC 3G">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Chanda Tuck - Garfield                " VOTES="815"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="26"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="357"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="427" CONTEST_NAME="ANC - 3G03 SINGLE MEMBER DISTRICT  03-ANC 3G">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Randy Speck                           " VOTES="943"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="29"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="302"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="428" CONTEST_NAME="ANC - 3G04 SINGLE MEMBER DISTRICT  04-ANC 3G">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Rebecca Maydak                        " VOTES="954"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="41"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="284"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="429" CONTEST_NAME="ANC - 3G05 SINGLE MEMBER DISTRICT  05-ANC 3G">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Peter Shapiro                         " VOTES="930"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="40"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="240"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="430" CONTEST_NAME="ANC - 3G06 SINGLE MEMBER DISTRICT  06-ANC 3G">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Dan Bradfield                         " VOTES="865"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="28"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="281"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="431" CONTEST_NAME="ANC - 3G07 SINGLE MEMBER DISTRICT  07-ANC 3G">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Chris Fromboluti                      " VOTES="460"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sandra Brown Gage                     " VOTES="384"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="22"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="300"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="432" CONTEST_NAME="ANC - 4A01 SINGLE MEMBER DISTRICT  01-ANC 4A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Phyllis C. Green                      " VOTES="683"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Acqunetta Anderson                    " VOTES="398"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="13"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="135"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="433" CONTEST_NAME="ANC - 4A02 SINGLE MEMBER DISTRICT  02-ANC 4A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Stacey Lincoln                        " VOTES="1051"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="138"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="207"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="434" CONTEST_NAME="ANC - 4A03 SINGLE MEMBER DISTRICT  03-ANC 4A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Stephen A &quot;Steve&quot; Whatley             " VOTES="404"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Rosemary Suggs-Evans                  " VOTES="309"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="105"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="435" CONTEST_NAME="ANC - 4A04 SINGLE MEMBER DISTRICT  04-ANC 4A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Michael Bethea                        " VOTES="402"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Patience R. Singleton                 " VOTES="571"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="10"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="127"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="436" CONTEST_NAME="ANC - 4A05 SINGLE MEMBER DISTRICT  05-ANC 4A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kolleen Bouchane                      " VOTES="103"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Deborah Pope                          " VOTES="328"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Stacey &quot;San&quot; Lucien                   " VOTES="79"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="11"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="163"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="437" CONTEST_NAME="ANC - 4A06 SINGLE MEMBER DISTRICT  06-ANC 4A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Karrye Y. Braxton                     " VOTES="439"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="14"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="155"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="438" CONTEST_NAME="ANC - 4A07 SINGLE MEMBER DISTRICT  07-ANC 4A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="David Wilson                          " VOTES="718"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="206"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="439" CONTEST_NAME="ANC - 4A08 SINGLE MEMBER DISTRICT  08-ANC 4A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Gale Black                            " VOTES="1176"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="39"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="199"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="440" CONTEST_NAME="ANC - 4B01 SINGLE MEMBER DISTRICT  01-ANC 4B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Hashim Coward                         " VOTES="492"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Andre R. Carley                       " VOTES="554"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="36"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="219"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="441" CONTEST_NAME="ANC - 4B02 SINGLE MEMBER DISTRICT  02-ANC 4B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="423"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="735"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="442" CONTEST_NAME="ANC - 4B03 SINGLE MEMBER DISTRICT  03-ANC 4B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Scot Knickerbocker                    " VOTES="1006"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="38"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="200"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="443" CONTEST_NAME="ANC - 4B04 SINGLE MEMBER DISTRICT  04-ANC 4B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ron Harden                            " VOTES="263"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Brenda Parks                          " VOTES="765"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="23"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="166"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="444" CONTEST_NAME="ANC - 4B05 SINGLE MEMBER DISTRICT  05-ANC 4B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Yolanda Hughes                        " VOTES="578"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Perry Redd                            " VOTES="214"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="15"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="108"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="445" CONTEST_NAME="ANC - 4B06 SINGLE MEMBER DISTRICT  06-ANC 4B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Natalee S. Snider                     " VOTES="744"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ron Austin                            " VOTES="382"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="9"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="107"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="446" CONTEST_NAME="ANC - 4B07 SINGLE MEMBER DISTRICT  07-ANC 4B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="James D. Gaston III                   " VOTES="607"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Judi Jones                            " VOTES="696"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="38"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="200"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="447" CONTEST_NAME="ANC - 4B08 SINGLE MEMBER DISTRICT  08-ANC 4B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Barbara Rogers                        " VOTES="976"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="54"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="188"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="448" CONTEST_NAME="ANC - 4B09 SINGLE MEMBER DISTRICT  09-ANC 4B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="La Roya A. Huff                       " VOTES="469"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Tischa M. Cockrell                    " VOTES="729"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="7"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="3"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="133"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="449" CONTEST_NAME="ANC - 4C01 SINGLE MEMBER DISTRICT  01-ANC 4C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sean Wieland                          " VOTES="268"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Charlotte Nugent                      " VOTES="605"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="12"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="106"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="450" CONTEST_NAME="ANC - 4C02 SINGLE MEMBER DISTRICT  02-ANC 4C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Maria Barry                           " VOTES="989"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="28"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="189"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="451" CONTEST_NAME="ANC - 4C03 SINGLE MEMBER DISTRICT  03-ANC 4C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ulysses E. Campbell                   " VOTES="871"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="25"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="198"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="452" CONTEST_NAME="ANC - 4C04 SINGLE MEMBER DISTRICT  04-ANC 4C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Michael Halpern                       " VOTES="539"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="21"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="117"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="453" CONTEST_NAME="ANC - 4C05 SINGLE MEMBER DISTRICT  05-ANC 4C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Zach Teutsch                          " VOTES="612"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="9"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="205"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="454" CONTEST_NAME="ANC - 4C06 SINGLE MEMBER DISTRICT  06-ANC 4C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Thomas Burnett                        " VOTES="1058"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="24"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="268"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="455" CONTEST_NAME="ANC - 4C07 SINGLE MEMBER DISTRICT  07-ANC 4C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Karen W. Cooper                       " VOTES="944"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="21"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="194"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="456" CONTEST_NAME="ANC - 4C08 SINGLE MEMBER DISTRICT  08-ANC 4C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Timothy A. Jones                      " VOTES="995"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="47"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="207"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="457" CONTEST_NAME="ANC - 4C09 SINGLE MEMBER DISTRICT  09-ANC 4C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Joseph Martin                         " VOTES="858"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="25"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="190"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="458" CONTEST_NAME="ANC - 4C10 SINGLE MEMBER DISTRICT  10-ANC 4C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jonah Goodman                         " VOTES="951"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="22"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="186"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="459" CONTEST_NAME="ANC - 4D01 SINGLE MEMBER DISTRICT  01-ANC 4D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Nancy E. Roth                         " VOTES="672"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="17"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="156"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="460" CONTEST_NAME="ANC - 4D02 SINGLE MEMBER DISTRICT  02-ANC 4D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Renée L. Bowser                      " VOTES="929"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="118"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="461" CONTEST_NAME="ANC - 4D03 SINGLE MEMBER DISTRICT  03-ANC 4D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Lisa Colbert                          " VOTES="539"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Aaron Polkey                          " VOTES="473"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="13"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="155"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="462" CONTEST_NAME="ANC - 4D04 SINGLE MEMBER DISTRICT  04-ANC 4D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="David Sheon                           " VOTES="772"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="139"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="463" CONTEST_NAME="ANC - 4D05 SINGLE MEMBER DISTRICT  05-ANC 4D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Krystal Branton                       " VOTES="769"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="22"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="145"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="464" CONTEST_NAME="ANC - 4D06 SINGLE MEMBER DISTRICT  06-ANC 4D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Bill Quirk                            " VOTES="206"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Amy Hemingway                         " VOTES="682"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="18"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="131"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="465" CONTEST_NAME="ANC - 5A01 SINGLE MEMBER DISTRICT  01-ANC 5A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Frank Wilds                           " VOTES="1099"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="42"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="191"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="466" CONTEST_NAME="ANC - 5A02 SINGLE MEMBER DISTRICT  02-ANC 5A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Grace J. Lewis                        " VOTES="604"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Charles T Lockett                     " VOTES="303"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ben Mossberg                          " VOTES="193"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="17"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="104"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="467" CONTEST_NAME="ANC - 5A03 SINGLE MEMBER DISTRICT  03-ANC 5A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Lionell K. Gaines                     " VOTES="356"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Will Gee                              " VOTES="145"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Keisha S. Cofield-Lynch               " VOTES="514"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="24"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="231"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="468" CONTEST_NAME="ANC - 5A04 SINGLE MEMBER DISTRICT  04-ANC 5A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="18"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="37"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="469" CONTEST_NAME="ANC - 5A05 SINGLE MEMBER DISTRICT  05-ANC 5A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ronnie Edwards                        " VOTES="441"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="15"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="118"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="470" CONTEST_NAME="ANC - 5A06 SINGLE MEMBER DISTRICT  06-ANC 5A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="A. Jamaal Lampkin                     " VOTES="794"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="237"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="471" CONTEST_NAME="ANC - 5A07 SINGLE MEMBER DISTRICT  07-ANC 5A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sandra &quot;Sandi&quot; Washington             " VOTES="444"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="9"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="139"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="472" CONTEST_NAME="ANC - 5A08 SINGLE MEMBER DISTRICT  08-ANC 5A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Angel Sherri Alston                   " VOTES="496"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Gordon-Andrew Fletcher                " VOTES="538"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="10"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="83"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="473" CONTEST_NAME="ANC - 5B01 SINGLE MEMBER DISTRICT  01-ANC 5B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Gayle Hall Carley                     " VOTES="1133"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="28"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="138"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="474" CONTEST_NAME="ANC - 5B02 SINGLE MEMBER DISTRICT  02-ANC 5B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ursula Higgins                        " VOTES="973"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="65"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="238"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="475" CONTEST_NAME="ANC - 5B03 SINGLE MEMBER DISTRICT  03-ANC 5B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Henri Makembe                         " VOTES="589"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jeff Steen                            " VOTES="459"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="23"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="164"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="476" CONTEST_NAME="ANC - 5B04 SINGLE MEMBER DISTRICT  04-ANC 5B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Rayseen Woodland                      " VOTES="511"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Carolyn C. Steptoe                    " VOTES="473"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="35"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="127"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="477" CONTEST_NAME="ANC - 5B05 SINGLE MEMBER DISTRICT  05-ANC 5B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="John J. Feeley, Jr.                   " VOTES="1001"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="33"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="178"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="478" CONTEST_NAME="ANC - 5C01 SINGLE MEMBER DISTRICT  01-ANC 5C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Gail A. Brevard                       " VOTES="931"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="35"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="178"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="479" CONTEST_NAME="ANC - 5C02 SINGLE MEMBER DISTRICT  02-ANC 5C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kevin Mullone                         " VOTES="417"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Carlos Dennis Davis                   " VOTES="349"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="11"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="137"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="480" CONTEST_NAME="ANC - 5C03 SINGLE MEMBER DISTRICT  03-ANC 5C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Robert Looper III                     " VOTES="1257"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="34"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="209"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="481" CONTEST_NAME="ANC - 5C04 SINGLE MEMBER DISTRICT  04-ANC 5C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sumner Shaw, Jr.                      " VOTES="137"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jacqueline Manning                    " VOTES="448"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Bernice &quot;BB&quot; Young                    " VOTES="224"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="10"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="136"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="482" CONTEST_NAME="ANC - 5C05 SINGLE MEMBER DISTRICT  05-ANC 5C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Regina James                          " VOTES="561"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Michelle A. Bundy                     " VOTES="408"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="20"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="185"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="483" CONTEST_NAME="ANC - 5C06 SINGLE MEMBER DISTRICT  06-ANC 5C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="LaMonica Jeffrey                      " VOTES="629"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="35"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="3"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="179"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="484" CONTEST_NAME="ANC - 5C07 SINGLE MEMBER DISTRICT  07-ANC 5C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Yolanda Odunsi                        " VOTES="955"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="38"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="3"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="198"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="485" CONTEST_NAME="ANC - 5D01 SINGLE MEMBER DISTRICT  01-ANC 5D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Peta - Gay S. Lewis                   " VOTES="609"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="25"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="178"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="486" CONTEST_NAME="ANC - 5D02 SINGLE MEMBER DISTRICT  02-ANC 5D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Vonetta Dumas                         " VOTES="431"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Keisha L. Shropshire                  " VOTES="450"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="14"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="113"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="487" CONTEST_NAME="ANC - 5D03 SINGLE MEMBER DISTRICT  03-ANC 5D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="James Butler                          " VOTES="532"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Adam Roberts                          " VOTES="451"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="25"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="123"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="488" CONTEST_NAME="ANC - 5D04 SINGLE MEMBER DISTRICT  04-ANC 5D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Bernice S Blacknell                   " VOTES="397"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Vincent &quot;Sasquatch&quot; Coles             " VOTES="209"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="75"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="489" CONTEST_NAME="ANC - 5D05 SINGLE MEMBER DISTRICT  05-ANC 5D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kathy Henderson                       " VOTES="550"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="73"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="112"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="490" CONTEST_NAME="ANC - 5D06 SINGLE MEMBER DISTRICT  06-ANC 5D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Yoomie Huynh                          " VOTES="295"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="H. Yvonne Buggs                       " VOTES="740"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="21"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="199"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="491" CONTEST_NAME="ANC - 5D07 SINGLE MEMBER DISTRICT  07-ANC 5D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Clarence Lee                          " VOTES="783"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="36"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="206"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="492" CONTEST_NAME="ANC - 5E01 SINGLE MEMBER DISTRICT  01-ANC 5E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Eddie Garnett                         " VOTES="961"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="36"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="236"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="493" CONTEST_NAME="ANC - 5E02 SINGLE MEMBER DISTRICT  02-ANC 5E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Patricia L. Williams                  " VOTES="561"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="17"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="127"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="494" CONTEST_NAME="ANC - 5E03 SINGLE MEMBER DISTRICT  03-ANC 5E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Hannah R. Powell                      " VOTES="796"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Michael Aiello                        " VOTES="178"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Renee T. Lewis                        " VOTES="519"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="49"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="376"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="495" CONTEST_NAME="ANC - 5E04 SINGLE MEMBER DISTRICT  04-ANC 5E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mary Lois Farmer-Allen                " VOTES="277"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sylvia M. Pinkney                     " VOTES="739"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="32"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="166"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="496" CONTEST_NAME="ANC - 5E05 SINGLE MEMBER DISTRICT  05-ANC 5E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Bradley Ashton Thomas                 " VOTES="1104"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="21"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="182"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="497" CONTEST_NAME="ANC - 5E06 SINGLE MEMBER DISTRICT  06-ANC 5E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Katherine McClelland                  " VOTES="638"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Chad Hrdina                           " VOTES="215"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="30"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="234"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="498" CONTEST_NAME="ANC - 5E07 SINGLE MEMBER DISTRICT  07-ANC 5E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Aravind Muthukrishnan                 " VOTES="302"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Serita Sanders                        " VOTES="339"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Bertha G. Holliday                    " VOTES="439"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="21"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="160"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="499" CONTEST_NAME="ANC - 5E08 SINGLE MEMBER DISTRICT  08-ANC 5E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Horacio Sierra                        " VOTES="942"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="36"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="192"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="500" CONTEST_NAME="ANC - 5E09 SINGLE MEMBER DISTRICT  09-ANC 5E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="C Dianne Barnes                       " VOTES="573"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kirby Vining                          " VOTES="374"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="14"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="3"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="143"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="501" CONTEST_NAME="ANC - 5E10 SINGLE MEMBER DISTRICT  10-ANC 5E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Nancy &quot;Darlene&quot; Jones                 " VOTES="611"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Michael J. Henderson                  " VOTES="502"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="9"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="101"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="502" CONTEST_NAME="ANC - 6A01 SINGLE MEMBER DISTRICT  01-ANC 6A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Marie-Claire Brown                    " VOTES="1027"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="33"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="266"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="503" CONTEST_NAME="ANC - 6A02 SINGLE MEMBER DISTRICT  02-ANC 6A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Phil Toomajian                        " VOTES="1061"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="47"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="226"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="504" CONTEST_NAME="ANC - 6A03 SINGLE MEMBER DISTRICT  03-ANC 6A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Michael B Soderman                    " VOTES="1068"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="31"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="271"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="505" CONTEST_NAME="ANC - 6A04 SINGLE MEMBER DISTRICT  04-ANC 6A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Matt Levy                             " VOTES="1152"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="39"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="197"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="506" CONTEST_NAME="ANC - 6A05 SINGLE MEMBER DISTRICT  05-ANC 6A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Yair Inspektor                        " VOTES="433"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Patrick Malone                        " VOTES="695"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="55"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="237"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="507" CONTEST_NAME="ANC - 6A06 SINGLE MEMBER DISTRICT  06-ANC 6A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="H.J. Amons Sr.                        " VOTES="105"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Stephanie Zimny                       " VOTES="641"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Peter Grant                           " VOTES="211"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="192"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="217"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="508" CONTEST_NAME="ANC - 6A07 SINGLE MEMBER DISTRICT  07-ANC 6A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sondra Phillips-Gilbert               " VOTES="881"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="47"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="167"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="509" CONTEST_NAME="ANC - 6A08 SINGLE MEMBER DISTRICT  08-ANC 6A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Calvin Ward                           " VOTES="1073"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="60"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="218"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="510" CONTEST_NAME="ANC - 6B01 SINGLE MEMBER DISTRICT  01-ANC 6B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jennifer E Samolyk                    " VOTES="800"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="38"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="218"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="511" CONTEST_NAME="ANC - 6B02 SINGLE MEMBER DISTRICT  02-ANC 6B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Diane Hoskins                         " VOTES="1023"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="47"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="254"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="512" CONTEST_NAME="ANC - 6B03 SINGLE MEMBER DISTRICT  03-ANC 6B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="James M Loots                         " VOTES="1005"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="42"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="268"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="513" CONTEST_NAME="ANC - 6B04 SINGLE MEMBER DISTRICT  04-ANC 6B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kirsten Oldenburg                     " VOTES="826"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="43"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="123"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="514" CONTEST_NAME="ANC - 6B05 SINGLE MEMBER DISTRICT  05-ANC 6B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Steve Hagedorn                        " VOTES="1036"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="43"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="249"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="515" CONTEST_NAME="ANC - 6B06 SINGLE MEMBER DISTRICT  06-ANC 6B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Nick Burger                           " VOTES="1053"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="28"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="257"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="516" CONTEST_NAME="ANC - 6B07 SINGLE MEMBER DISTRICT  07-ANC 6B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Aimee M. Grace                        " VOTES="868"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="212"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="517" CONTEST_NAME="ANC - 6B08 SINGLE MEMBER DISTRICT  08-ANC 6B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Chander Jayaraman                     " VOTES="1035"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="47"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="295"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="518" CONTEST_NAME="ANC - 6B09 SINGLE MEMBER DISTRICT  09-ANC 6B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Daniel Ridge                          " VOTES="1149"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="30"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="268"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="519" CONTEST_NAME="ANC - 6B10 SINGLE MEMBER DISTRICT  10-ANC 6B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kathryn Denise Rucker Krepp           " VOTES="840"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Cam Norris                            " VOTES="346"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="24"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="206"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="520" CONTEST_NAME="ANC - 6C01 SINGLE MEMBER DISTRICT  01-ANC 6C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Christine Healey                      " VOTES="790"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="31"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="253"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="521" CONTEST_NAME="ANC - 6C02 SINGLE MEMBER DISTRICT  02-ANC 6C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Karen Wirt                            " VOTES="494"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="28"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="147"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="522" CONTEST_NAME="ANC - 6C03 SINGLE MEMBER DISTRICT  03-ANC 6C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Scott Price                           " VOTES="1048"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="58"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="279"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="523" CONTEST_NAME="ANC - 6C04 SINGLE MEMBER DISTRICT  04-ANC 6C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mark Eckenwiler                       " VOTES="1187"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="49"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="344"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="524" CONTEST_NAME="ANC - 6C05 SINGLE MEMBER DISTRICT  05-ANC 6C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Chris Miller                          " VOTES="1190"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="43"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="246"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="525" CONTEST_NAME="ANC - 6C06 SINGLE MEMBER DISTRICT  06-ANC 6C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Heather Edelman                       " VOTES="2161"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="55"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="452"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="526" CONTEST_NAME="ANC - 6D01 SINGLE MEMBER DISTRICT  01-ANC 6D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Gail Fast                             " VOTES="495"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Martin Welles                         " VOTES="288"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Wes Ven Johnson                       " VOTES="118"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Dorinda &quot;Rindi&quot; White                 " VOTES="346"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="25"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="258"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="527" CONTEST_NAME="ANC - 6D02 SINGLE MEMBER DISTRICT  02-ANC 6D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Paul Biedlingmaier                    " VOTES="317"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Cara Lea Shockley                     " VOTES="947"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="31"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="314"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="528" CONTEST_NAME="ANC - 6D03 SINGLE MEMBER DISTRICT  03-ANC 6D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="212"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="932"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="529" CONTEST_NAME="ANC - 6D04 SINGLE MEMBER DISTRICT  04-ANC 6D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Andy Litsky                           " VOTES="1072"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="43"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="203"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="530" CONTEST_NAME="ANC - 6D05 SINGLE MEMBER DISTRICT  05-ANC 6D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Rebekah Caruthers                     " VOTES="138"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Dana Lutenegger                       " VOTES="130"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Katelynd Mahoney                      " VOTES="371"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Roger Moffatt                         " VOTES="532"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="21"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="235"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="531" CONTEST_NAME="ANC - 6D06 SINGLE MEMBER DISTRICT  06-ANC 6D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Rhonda Natalie Hamilton               " VOTES="1017"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="20"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="251"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="532" CONTEST_NAME="ANC - 6D07 SINGLE MEMBER DISTRICT  07-ANC 6D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Meredith Fascett                      " VOTES="1739"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="36"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="265"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="533" CONTEST_NAME="ANC - 6E01 SINGLE MEMBER DISTRICT  01-ANC 6E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mary A. Sutherland                    " VOTES="543"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Alexander M. &quot;Alex&quot; Padro             " VOTES="813"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="24"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="252"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="534" CONTEST_NAME="ANC - 6E02 SINGLE MEMBER DISTRICT  02-ANC 6E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Leroy Thorpe                          " VOTES="305"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Valerie Randolph                      " VOTES="225"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Eugene Simms                          " VOTES="120"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Anthony Brown                         " VOTES="433"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="17"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="210"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="535" CONTEST_NAME="ANC - 6E03 SINGLE MEMBER DISTRICT  03-ANC 6E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Frank S. Wiggins                      " VOTES="511"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kennith James                         " VOTES="224"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="22"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="114"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="536" CONTEST_NAME="ANC - 6E04 SINGLE MEMBER DISTRICT  04-ANC 6E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mohammed Seid                         " VOTES="193"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Phil Tsolakidis                       " VOTES="64"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sterlicia Rodney                      " VOTES="298"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Lily Roberts                          " VOTES="770"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="16"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="193"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="537" CONTEST_NAME="ANC - 6E05 SINGLE MEMBER DISTRICT  05-ANC 6E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Marge Maceda                          " VOTES="451"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Alex Marriott                         " VOTES="1221"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="18"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="259"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="538" CONTEST_NAME="ANC - 6E06 SINGLE MEMBER DISTRICT  06-ANC 6E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Alvin Judd Sr.                        " VOTES="482"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="27"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="144"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="539" CONTEST_NAME="ANC - 6E07 SINGLE MEMBER DISTRICT  07-ANC 6E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kevin M. Rogers                       " VOTES="864"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="33"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="277"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="540" CONTEST_NAME="ANC - 7B01 SINGLE MEMBER DISTRICT  01-ANC 7B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Patricia Howard-Chittams              " VOTES="394"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Debra Walker                          " VOTES="421"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="16"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="105"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="541" CONTEST_NAME="ANC - 7B02 SINGLE MEMBER DISTRICT  02-ANC 7B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Tiffany L. Brown                      " VOTES="877"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="22"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="174"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="542" CONTEST_NAME="ANC - 7B03 SINGLE MEMBER DISTRICT  03-ANC 7B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="110"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="855"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="543" CONTEST_NAME="ANC - 7B04 SINGLE MEMBER DISTRICT  04-ANC 7B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Phillip J. Hammond                    " VOTES="1123"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="54"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="186"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="544" CONTEST_NAME="ANC - 7B05 SINGLE MEMBER DISTRICT  05-ANC 7B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Robin Hammond Marlin                  " VOTES="359"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Toya S. Carmichael                    " VOTES="346"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Villareal &quot;VJ&quot; Johnson                " VOTES="244"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="96"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="545" CONTEST_NAME="ANC - 7B06 SINGLE MEMBER DISTRICT  06-ANC 7B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Donovan Anderson                      " VOTES="631"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Eric M. Rogers                        " VOTES="405"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="23"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="148"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="546" CONTEST_NAME="ANC - 7B07 SINGLE MEMBER DISTRICT  07-ANC 7B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="D.L. Humphrey                         " VOTES="588"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jimmie Williams                       " VOTES="556"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="154"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="547" CONTEST_NAME="ANC - 7C01 SINGLE MEMBER DISTRICT  01-ANC 7C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Patricia Malloy                       " VOTES="702"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="43"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="195"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="548" CONTEST_NAME="ANC - 7C02 SINGLE MEMBER DISTRICT  02-ANC 7C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Elizabeth B Hall                      " VOTES="371"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mary C. Morgan                        " VOTES="450"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="16"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="96"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="549" CONTEST_NAME="ANC - 7C03 SINGLE MEMBER DISTRICT  03-ANC 7C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Catherine A. Woods                    " VOTES="513"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Antonio Johnson                       " VOTES="328"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="72"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="550" CONTEST_NAME="ANC - 7C04 SINGLE MEMBER DISTRICT  04-ANC 7C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Anthony Lorenzo Green                 " VOTES="541"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Alex Bess                             " VOTES="275"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="129"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="551" CONTEST_NAME="ANC - 7C05 SINGLE MEMBER DISTRICT  05-ANC 7C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Joseph C. Thomas                      " VOTES="322"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mary L. Gaffney                       " VOTES="533"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="92"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="552" CONTEST_NAME="ANC - 7C06 SINGLE MEMBER DISTRICT  06-ANC 7C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="179"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="747"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="553" CONTEST_NAME="ANC - 7C07 SINGLE MEMBER DISTRICT  07-ANC 7C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Antawan Holmes                        " VOTES="793"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="15"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="162"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="554" CONTEST_NAME="ANC - 7D01 SINGLE MEMBER DISTRICT  01-ANC 7D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Veronica E. Raglin                    " VOTES="478"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Bob Coomber                           " VOTES="491"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="16"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="83"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="555" CONTEST_NAME="ANC - 7D02 SINGLE MEMBER DISTRICT  02-ANC 7D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Siraaj Hasan                          " VOTES="824"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="31"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="223"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="556" CONTEST_NAME="ANC - 7D03 SINGLE MEMBER DISTRICT  03-ANC 7D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Dorothy Douglas                       " VOTES="528"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="7"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="107"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="557" CONTEST_NAME="ANC - 7D04 SINGLE MEMBER DISTRICT  04-ANC 7D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Cinque E. Culver                      " VOTES="381"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jo-Anne Prue                          " VOTES="690"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="3"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="109"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="558" CONTEST_NAME="ANC - 7D05 SINGLE MEMBER DISTRICT  05-ANC 7D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Janis D. Hazel                        " VOTES="788"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="34"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="251"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="559" CONTEST_NAME="ANC - 7D06 SINGLE MEMBER DISTRICT  06-ANC 7D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sherice A. Muhammad                   " VOTES="482"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Antonio Cadogan Jr.                   " VOTES="296"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="16"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="112"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="560" CONTEST_NAME="ANC - 7D07 SINGLE MEMBER DISTRICT  07-ANC 7D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Justin A. Lini                        " VOTES="744"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="219"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="561" CONTEST_NAME="ANC - 7E01 SINGLE MEMBER DISTRICT  01-ANC 7E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Diona Lane                            " VOTES="373"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Benjamin E. Thomas, Sr.               " VOTES="544"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="22"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="127"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="562" CONTEST_NAME="ANC - 7E02 SINGLE MEMBER DISTRICT  02-ANC 7E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Linda S. Green                        " VOTES="922"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="35"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="157"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="563" CONTEST_NAME="ANC - 7E03 SINGLE MEMBER DISTRICT  03-ANC 7E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ebbon A. Allen                        " VOTES="602"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="23"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="131"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="564" CONTEST_NAME="ANC - 7E04 SINGLE MEMBER DISTRICT  04-ANC 7E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Myron Smith                           " VOTES="408"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Takiyah &quot;T.N.&quot; Tate                   " VOTES="472"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="17"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="115"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="565" CONTEST_NAME="ANC - 7E05 SINGLE MEMBER DISTRICT  05-ANC 7E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Ashley Emerson                        " VOTES="635"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="35"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="145"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="566" CONTEST_NAME="ANC - 7E06 SINGLE MEMBER DISTRICT  06-ANC 7E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Dontrell A. Smith                     " VOTES="388"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="LaKeshia Lloyd-Lee                    " VOTES="323"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Adrian J. Polite                      " VOTES="130"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="14"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="79"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="567" CONTEST_NAME="ANC - 7E07 SINGLE MEMBER DISTRICT  07-ANC 7E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="La Shawn Scott                        " VOTES="330"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Linda M. Holmes                       " VOTES="412"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="44"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="95"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="568" CONTEST_NAME="ANC - 7F01 SINGLE MEMBER DISTRICT  01-ANC 7F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Gia Stancell                          " VOTES="134"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Maria (Mafe) Jackson                  " VOTES="281"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="David Belt                            " VOTES="112"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Tyrell M. Holcomb                     " VOTES="414"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="5"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="131"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="569" CONTEST_NAME="ANC - 7F02 SINGLE MEMBER DISTRICT  02-ANC 7F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Terrance Hunter                       " VOTES="833"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="31"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="250"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="570" CONTEST_NAME="ANC - 7F03 SINGLE MEMBER DISTRICT  03-ANC 7F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Angeleah Jamison                      " VOTES="199"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sheila M. Carson Carr                 " VOTES="485"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="10"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="115"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="571" CONTEST_NAME="ANC - 7F04 SINGLE MEMBER DISTRICT  04-ANC 7F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Charlene Exum                         " VOTES="415"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="10"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="107"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="572" CONTEST_NAME="ANC - 7F05 SINGLE MEMBER DISTRICT  05-ANC 7F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Karen Settles                         " VOTES="716"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="158"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="573" CONTEST_NAME="ANC - 7F06 SINGLE MEMBER DISTRICT  06-ANC 7F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Carol E. Fletcher                     " VOTES="710"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="28"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="176"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="574" CONTEST_NAME="ANC - 7F07 SINGLE MEMBER DISTRICT  07-ANC 7F">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="44"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="575" CONTEST_NAME="ANC - 8A01 SINGLE MEMBER DISTRICT  01-ANC 8A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Holly Muhammad                        " VOTES="938"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="40"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="191"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="576" CONTEST_NAME="ANC - 8A02 SINGLE MEMBER DISTRICT  02-ANC 8A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Barbara J. Clark                      " VOTES="950"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="22"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="180"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="577" CONTEST_NAME="ANC - 8A03 SINGLE MEMBER DISTRICT  03-ANC 8A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="138"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="874"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="578" CONTEST_NAME="ANC - 8A04 SINGLE MEMBER DISTRICT  04-ANC 8A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Troy Donté Prestwood                 " VOTES="522"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="13"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="107"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="579" CONTEST_NAME="ANC - 8A05 SINGLE MEMBER DISTRICT  05-ANC 8A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="LaTasha Nicole Gunnels                " VOTES="306"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Travon Hawkins                        " VOTES="514"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="19"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="137"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="580" CONTEST_NAME="ANC - 8A06 SINGLE MEMBER DISTRICT  06-ANC 8A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Greta J. Fuller                       " VOTES="342"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jason Anderson                        " VOTES="192"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Akili &quot;Gil&quot; West                      " VOTES="292"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="James Isreal                          " VOTES="95"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="22"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="110"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="581" CONTEST_NAME="ANC - 8A07 SINGLE MEMBER DISTRICT  07-ANC 8A">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="T'Chaka M. Sapp                       " VOTES="863"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="42"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="167"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="582" CONTEST_NAME="ANC - 8B01 SINGLE MEMBER DISTRICT  01-ANC 8B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Khadijah Watson                       " VOTES="507"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Joshua Clark                          " VOTES="265"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="18"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="140"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="583" CONTEST_NAME="ANC - 8B02 SINGLE MEMBER DISTRICT  02-ANC 8B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Paul Trantham                         " VOTES="522"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="38"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="152"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="584" CONTEST_NAME="ANC - 8B03 SINGLE MEMBER DISTRICT  03-ANC 8B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Charles H. Wilson                     " VOTES="268"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="India Blocker                         " VOTES="355"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Barbara Jones                         " VOTES="221"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="10"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="105"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="585" CONTEST_NAME="ANC - 8B04 SINGLE MEMBER DISTRICT  04-ANC 8B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Lanet R. Scott                        " VOTES="325"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mikelle Bassett                       " VOTES="350"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="72"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="586" CONTEST_NAME="ANC - 8B05 SINGLE MEMBER DISTRICT  05-ANC 8B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Betty Scippio                         " VOTES="511"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="29"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="151"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="587" CONTEST_NAME="ANC - 8B06 SINGLE MEMBER DISTRICT  06-ANC 8B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mitchell G. Hawkins III               " VOTES="487"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Diag Davenport                        " VOTES="99"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="22"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="126"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="588" CONTEST_NAME="ANC - 8B07 SINGLE MEMBER DISTRICT  07-ANC 8B">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Keeon Bassett                         " VOTES="554"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="11"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="107"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="589" CONTEST_NAME="ANC - 8C01 SINGLE MEMBER DISTRICT  01-ANC 8C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Karen &quot;Coach&quot; Lucas                   " VOTES="301"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kristal Knight                        " VOTES="263"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="53"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="590" CONTEST_NAME="ANC - 8C02 SINGLE MEMBER DISTRICT  02-ANC 8C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="(Terry) Teresa Stith                  " VOTES="590"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="29"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="125"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="591" CONTEST_NAME="ANC - 8C03 SINGLE MEMBER DISTRICT  03-ANC 8C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Hilary I. Brown                       " VOTES="288"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Sharece Crawford                      " VOTES="427"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="30"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="109"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="592" CONTEST_NAME="ANC - 8C04 SINGLE MEMBER DISTRICT  04-ANC 8C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Davina Callahan                       " VOTES="348"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="David Jones                           " VOTES="433"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="13"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="111"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="593" CONTEST_NAME="ANC - 8C05 SINGLE MEMBER DISTRICT  05-ANC 8C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Inez Johnson                          " VOTES="131"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Brenda E. Shields                     " VOTES="260"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="9"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="72"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="594" CONTEST_NAME="ANC - 8C06 SINGLE MEMBER DISTRICT  06-ANC 8C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Moses Smith                           " VOTES="247"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Rhonda L. Edwards - Hines             " VOTES="398"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="13"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="83"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="595" CONTEST_NAME="ANC - 8C07 SINGLE MEMBER DISTRICT  07-ANC 8C">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Jonathan P Steele                     " VOTES="242"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Charles L. Lindsay                    " VOTES="239"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Mary J. Cuthbert                      " VOTES="274"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="98"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="596" CONTEST_NAME="ANC - 8D01 SINGLE MEMBER DISTRICT  01-ANC 8D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Patricia (Pat) Carmon                 " VOTES="697"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="30"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="192"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="597" CONTEST_NAME="ANC - 8D02 SINGLE MEMBER DISTRICT  02-ANC 8D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Olivia L. Henderson                   " VOTES="615"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="20"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="117"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="598" CONTEST_NAME="ANC - 8D03 SINGLE MEMBER DISTRICT  03-ANC 8D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Absalom &quot;Ab&quot; Jordan                   " VOTES="494"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="8"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="154"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="599" CONTEST_NAME="ANC - 8D04 SINGLE MEMBER DISTRICT  04-ANC 8D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Monique T. Diop                       " VOTES="417"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="4"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="96"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="600" CONTEST_NAME="ANC - 8D05 SINGLE MEMBER DISTRICT  05-ANC 8D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="51"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="666"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="601" CONTEST_NAME="ANC - 8D06 SINGLE MEMBER DISTRICT  06-ANC 8D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO CANDIDATE FILED                    " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="88"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="840"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="602" CONTEST_NAME="ANC - 8D07 SINGLE MEMBER DISTRICT  07-ANC 8D">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Theresa H. Jones                      " VOTES="494"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="21"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="98"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="603" CONTEST_NAME="ANC - 8E01 SINGLE MEMBER DISTRICT  01-ANC 8E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Joseph Johnson                        " VOTES="743"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="41"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="2"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="156"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="604" CONTEST_NAME="ANC - 8E02 SINGLE MEMBER DISTRICT  02-ANC 8E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Anthony Muhammad                      " VOTES="682"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="39"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="1"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="165"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="605" CONTEST_NAME="ANC - 8E03 SINGLE MEMBER DISTRICT  03-ANC 8E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Monica Watts                          " VOTES="565"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="15"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="132"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="606" CONTEST_NAME="ANC - 8E04 SINGLE MEMBER DISTRICT  04-ANC 8E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Kendall L. Simmons                    " VOTES="468"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Debbie Lewis Dykes                    " VOTES="400"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="22"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="123"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="607" CONTEST_NAME="ANC - 8E05 SINGLE MEMBER DISTRICT  05-ANC 8E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Christopher L. Hawthorne              " VOTES="844"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="23"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="213"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="608" CONTEST_NAME="ANC - 8E06 SINGLE MEMBER DISTRICT  06-ANC 8E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Karlene (K.) Armstead                 " VOTES="612"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="17"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="209"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="609" CONTEST_NAME="ANC - 8E07 SINGLE MEMBER DISTRICT  07-ANC 8E">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="Stephen A. Slaughter                  " VOTES="714"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN                              " VOTES="21"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="0"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="160"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="610" CONTEST_NAME="ADVISORY REFERENDUM B DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="YES, to approve                       " VOTES="244134"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="NO, to reject                         " VOTES="40779"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES                            " VOTES="39"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES                           " VOTES="26115"/>
+
+
+          </CONTEST>
+
+
+     </ELECTION>
+
+
+</DCBOEE>

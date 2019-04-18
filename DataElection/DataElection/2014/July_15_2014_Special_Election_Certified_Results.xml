@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+
+<?xml-stylesheet type='text/xsl' href='results1112.xsl'?>
+
+
+<DCBOEE>
+
+
+     <ELECTION ElectionDate="2014-08-06" ElectionName="D.C. Special Election 2014" ElectionID="14">
+
+
+          <CONTEST contest_id="103" CONTEST_NAME="MEMBER OF THE STATE BOARD OF ED WARD EIGHT">
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="DARRELL DANNY GASTON" VOTES="67"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="TIERRA JOLLY" VOTES="813"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="PHILIP PANNELL" VOTES="733"/>
+
+
+               <CANDIDATE PARTY="NON" CANDIDATE="WRITE-IN" VOTES="88"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="OVER VOTES" VOTES="4"/>
+
+
+               <CANDIDATE PARTY="" CANDIDATE="UNDER VOTES" VOTES="10"/>
+
+
+          </CONTEST>
+
+
+     </ELECTION>
+
+
+</DCBOEE>

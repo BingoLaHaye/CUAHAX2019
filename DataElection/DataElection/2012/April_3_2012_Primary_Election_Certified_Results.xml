@@ -1,0 +1,457 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+
+<?xml-stylesheet type='text/xsl' href='results1112.xsl'?>
+
+
+<DCBOEE>
+
+
+     <ELECTION ElectionDate="2014-04-14" ElectionName="D.C. Primary Election 2012" ElectionID="8">
+
+
+          <CONTEST contest_id="103" CONTEST_NAME="REGISTERED VOTERS - REPUBLICAN">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="REGISTERED VOTERS - REPUBLICAN" VOTES="30286"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="104" CONTEST_NAME="REGISTERED VOTERS - STATEHOOD GREEN">
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="REGISTERED VOTERS - STATEHOOD GREEN" VOTES="4175"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="105" CONTEST_NAME="BALLOTS CAST - TOTAL">
+
+
+               <CANDIDATE PARTY="" CANDIDATE="BALLOTS CAST - TOTAL" VOTES="64361"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="106" CONTEST_NAME="BALLOTS CAST - DEMOCRATIC">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="BALLOTS CAST - DEMOCRATIC" VOTES="58725"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="107" CONTEST_NAME="BALLOTS CAST - REPUBLICAN">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="BALLOTS CAST - REPUBLICAN" VOTES="5257"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="108" CONTEST_NAME="BALLOTS CAST - STATEHOOD GREEN">
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="BALLOTS CAST - STATEHOOD GREEN" VOTES="379"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="112" CONTEST_NAME="PRESIDENTIAL PREFERENCE">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Barack Obama" VOTES="56503"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Uncommitted" VOTES="1100"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN" VOTES="386"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="113" CONTEST_NAME="DELEGATE U.S. HOUSE OF REPRESENTATIVES DISTRICT OF">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Eleanor Holmes Norton" VOTES="52881"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN" VOTES="1474"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="114" CONTEST_NAME="AT - LARGE MEMBER OF THE COUNCIL DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Vincent Orange" VOTES="23719"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="E. Gail Anderson Holness" VOTES="4348"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Peter Shapiro" VOTES="6206"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Sekou Biddle" VOTES="21973"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN" VOTES="383"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="115" CONTEST_NAME="MEMBER OF THE COUNCIL WARD TWO">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Jack Evans" VOTES="2947"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN" VOTES="247"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="116" CONTEST_NAME="MEMBER OF THE COUNCIL WARD FOUR">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Judi Jones" VOTES="371"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Max Skolnik" VOTES="1042"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Baruti Jahi" VOTES="619"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Renee L. Bowser" VOTES="1523"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Calvin &quot;Gurley&quot;" VOTES="268"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Muriel E. Bowser" VOTES="7541"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN" VOTES="32"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="117" CONTEST_NAME="MEMBER OF THE COUNCIL WARD SEVEN">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Kevin B. Chavous" VOTES="1916"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Tom Brown" VOTES="1950"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="William Rev. Bill Bennett II" VOTES="892"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Yvette M. Alexander" VOTES="3730"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Monica L. Johnson" VOTES="73"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Dorothy Douglas" VOTES="192"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN" VOTES="48"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="118" CONTEST_NAME="MEMBER OF THE COUNCIL WARD EIGHT">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Marion Barry" VOTES="5116"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Jacque D. Patterson" VOTES="568"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Darrell Danny Gaston" VOTES="219"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Natalie Williams" VOTES="485"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="S.S. Sandra Seegars" VOTES="549"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN" VOTES="20"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="119" CONTEST_NAME="UNITED STATES SENATOR DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Pete Ross" VOTES="14568"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Michael D. Brown" VOTES="34342"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN" VOTES="1046"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="120" CONTEST_NAME="UNITED STATES REPRESENTATIVE DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="Nate Bennett-Fleming" VOTES="43297"/>
+
+
+               <CANDIDATE PARTY="DEM" CANDIDATE="WRITE-IN" VOTES="1364"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="121" CONTEST_NAME="PRESIDENTIAL PREFERENCE">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Newt Gingrich" VOTES="558"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Ron Paul" VOTES="621"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Mitt Romney" VOTES="3577"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Jon Huntsman" VOTES="348"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="122" CONTEST_NAME="DELEGATE U.S. HOUSE OF REPRESENTATIVES">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN" VOTES="769"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="123" CONTEST_NAME="AT - LARGE MEMBER OF THE COUNCIL DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Mary Brooks Beatty" VOTES="4282"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN" VOTES="166"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="124" CONTEST_NAME="MEMBER OF THE COUNCIL WARD TWO">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN" VOTES="141"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="125" CONTEST_NAME="MEMBER OF THE COUNCIL WARD FOUR">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN" VOTES="86"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="126" CONTEST_NAME="MEMBER OF THE COUNCIL WARD SEVEN">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Don Folden Sr." VOTES="31"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Ron Moten" VOTES="68"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN" VOTES="12"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="127" CONTEST_NAME="MEMBER OF THE COUNCIL WARD EIGHT">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN" VOTES="33"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="128" CONTEST_NAME="NATIONAL COMMITTEEMAN DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Jordan Gehrke" VOTES="2040"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Bob Kabel" VOTES="2360"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="129" CONTEST_NAME="NATIONAL COMMITTEEWOMAN DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Jill Homan" VOTES="2460"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Teri Galvez" VOTES="2131"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="130" CONTEST_NAME="UNITED STATES SENATOR DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="Nelson F. Rimensnyder" VOTES="3959"/>
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN" VOTES="177"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="131" CONTEST_NAME="UNITED STATES REPRESENTATIVE DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="REP" CANDIDATE="WRITE-IN" VOTES="634"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="132" CONTEST_NAME="PRESIDENTIAL PREFERENCE">
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="Jill Stein" VOTES="216"/>
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="Candidate None" VOTES="27"/>
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="WRITE-IN" VOTES="100"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="133" CONTEST_NAME="DELEGATE U.S. HOUSE OF REPRESENTATIVES DISTRICT OF">
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="Natale Lino Stracuzzi" VOTES="265"/>
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="WRITE-IN" VOTES="64"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="134" CONTEST_NAME="AT - LARGE MEMBER OF THE COUNCIL DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="G. Lee Aikin" VOTES="85"/>
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="Ann C. Wilcox" VOTES="223"/>
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="WRITE-IN" VOTES="44"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="135" CONTEST_NAME="MEMBER OF THE COUNCIL WARD TWO">
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="WRITE-IN" VOTES="12"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="136" CONTEST_NAME="MEMBER OF THE COUNCIL WARD FOUR">
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="WRITE-IN" VOTES="39"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="137" CONTEST_NAME="MEMBER OF THE COUNCIL WARD SEVEN">
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="WRITE-IN" VOTES="21"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="138" CONTEST_NAME="MEMBER OF THE COUNCIL WARD EIGHT">
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="WRITE-IN" VOTES="13"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="139" CONTEST_NAME="UNITED STATES SENATOR DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="WRITE-IN" VOTES="116"/>
+
+
+          </CONTEST>
+
+
+          <CONTEST contest_id="140" CONTEST_NAME="UNITED STATES REPRESENTATIVE DISTRICT OF COLUMBIA">
+
+
+               <CANDIDATE PARTY="GRN" CANDIDATE="WRITE-IN" VOTES="109"/>
+
+
+          </CONTEST>
+
+
+     </ELECTION>
+
+
+</DCBOEE>
